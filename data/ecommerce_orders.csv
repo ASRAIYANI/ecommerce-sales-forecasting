@@ -1,0 +1,1097 @@
+order_id,order_date,product,category,region,sales_channel,quantity,unit_price,discount,revenue,cost,profit
+ORD000001,2023-01-01,Headphones,Audio,East,Website,1,95,0.1,85.5,62.68,22.82
+ORD000002,2023-01-02,SSD,Storage,West,Website,3,110,0.0,330.0,219.5,110.5
+ORD000003,2023-01-03,Webcam,Accessories,East,Website,5,75,0.05,356.25,262.82,93.43
+ORD000004,2023-01-04,Monitor,Computers,West,Marketplace,3,220,0.2,528.0,353.69,174.31
+ORD000005,2023-01-05,Keyboard,Accessories,South,Website,3,65,0.1,175.5,130.17,45.33
+ORD000006,2023-01-06,SSD,Storage,West,Website,6,110,0.0,660.0,470.53,189.47
+ORD000007,2023-01-07,Laptop,Computers,South,Website,5,850,0.2,3400.0,2369.83,1030.17
+ORD000008,2023-01-08,SSD,Storage,East,Mobile App,6,110,0.05,627.0,482.05,144.95
+ORD000009,2023-01-09,SSD,Storage,South,Website,3,110,0.1,297.0,171.4,125.6
+ORD000010,2023-01-10,Mouse,Accessories,West,Mobile App,5,35,0.15,148.75,113.5,35.25
+ORD000011,2023-01-11,Keyboard,Accessories,South,Website,4,65,0.1,234.0,156.78,77.22
+ORD000012,2023-01-12,Monitor,Computers,North,Website,5,220,0.0,1100.0,783.99,316.01
+ORD000013,2023-01-13,Monitor,Computers,West,Marketplace,4,220,0.05,836.0,588.29,247.71
+ORD000014,2023-01-14,Mouse,Accessories,West,Mobile App,6,35,0.1,189.0,120.98,68.02
+ORD000015,2023-01-15,Mouse,Accessories,East,Website,7,35,0.05,232.75,156.21,76.54
+ORD000016,2023-01-16,Mouse,Accessories,North,Mobile App,3,35,0.0,105.0,81.24,23.76
+ORD000017,2023-01-17,Office Chair,Furniture,South,Marketplace,6,180,0.05,1026.0,679.52,346.48
+ORD000018,2023-01-18,SSD,Storage,West,Mobile App,4,110,0.0,440.0,334.76,105.24
+ORD000019,2023-01-19,Headphones,Audio,North,Mobile App,2,95,0.0,190.0,104.87,85.13
+ORD000020,2023-01-20,Office Chair,Furniture,West,Website,4,180,0.0,720.0,491.09,228.91
+ORD000021,2023-01-21,Monitor,Computers,South,Mobile App,5,220,0.05,1045.0,740.36,304.64
+ORD000022,2023-01-22,Monitor,Computers,South,Website,3,220,0.05,627.0,401.85,225.15
+ORD000023,2023-01-23,Headphones,Audio,East,Website,3,95,0.0,285.0,162.08,122.92
+ORD000024,2023-01-24,Laptop,Computers,West,Website,5,850,0.1,3825.0,2800.58,1024.42
+ORD000025,2023-01-25,Laptop,Computers,East,Website,3,850,0.1,2295.0,1659.71,635.29
+ORD000026,2023-01-26,Mouse,Accessories,West,Website,3,35,0.15,89.25,56.91,32.34
+ORD000027,2023-01-27,Mouse,Accessories,North,Marketplace,5,35,0.0,175.0,100.18,74.82
+ORD000028,2023-01-28,Office Chair,Furniture,North,Website,4,180,0.1,648.0,481.51,166.49
+ORD000029,2023-01-29,Headphones,Audio,South,Website,9,95,0.0,855.0,622.86,232.14
+ORD000030,2023-01-30,Mouse,Accessories,East,Marketplace,3,35,0.05,99.75,74.0,25.75
+ORD000031,2023-01-31,Mouse,Accessories,South,Website,9,35,0.05,299.25,220.95,78.3
+ORD000032,2023-02-01,Monitor,Computers,North,Marketplace,2,220,0.1,396.0,241.76,154.24
+ORD000033,2023-02-02,Laptop,Computers,South,Website,3,850,0.1,2295.0,1591.96,703.04
+ORD000034,2023-02-03,Monitor,Computers,East,Marketplace,5,220,0.15,935.0,614.42,320.58
+ORD000035,2023-02-04,Webcam,Accessories,East,Marketplace,2,75,0.1,135.0,86.37,48.63
+ORD000036,2023-02-05,Monitor,Computers,North,Marketplace,2,220,0.05,418.0,269.35,148.65
+ORD000037,2023-02-06,Keyboard,Accessories,West,Mobile App,4,65,0.1,234.0,164.93,69.07
+ORD000038,2023-02-07,Laptop,Computers,East,Mobile App,3,850,0.0,2550.0,1987.9,562.1
+ORD000039,2023-02-08,SSD,Storage,South,Marketplace,2,110,0.1,198.0,130.43,67.57
+ORD000040,2023-02-09,Laptop,Computers,North,Website,4,850,0.1,3060.0,1941.0,1119.0
+ORD000041,2023-02-10,Monitor,Computers,East,Website,6,220,0.0,1320.0,916.63,403.37
+ORD000042,2023-02-11,SSD,Storage,South,Marketplace,3,110,0.1,297.0,206.33,90.67
+ORD000043,2023-02-12,Mouse,Accessories,West,Marketplace,4,35,0.0,140.0,90.11,49.89
+ORD000044,2023-02-13,SSD,Storage,West,Marketplace,8,110,0.0,880.0,614.75,265.25
+ORD000045,2023-02-14,Headphones,Audio,East,Mobile App,4,95,0.0,380.0,266.39,113.61
+ORD000046,2023-02-15,Webcam,Accessories,South,Marketplace,3,75,0.05,213.75,154.27,59.48
+ORD000047,2023-02-16,Laptop,Computers,North,Mobile App,7,850,0.1,5355.0,3150.97,2204.03
+ORD000048,2023-02-17,Mouse,Accessories,West,Marketplace,6,35,0.05,199.5,139.67,59.83
+ORD000049,2023-02-18,Mouse,Accessories,North,Marketplace,9,35,0.1,283.5,183.17,100.33
+ORD000050,2023-02-19,SSD,Storage,South,Mobile App,4,110,0.2,352.0,264.8,87.2
+ORD000051,2023-02-20,Keyboard,Accessories,South,Marketplace,7,65,0.2,364.0,251.97,112.03
+ORD000052,2023-02-21,Headphones,Audio,North,Marketplace,6,95,0.1,513.0,377.84,135.16
+ORD000053,2023-02-22,Laptop,Computers,South,Mobile App,6,850,0.05,4845.0,3567.73,1277.27
+ORD000054,2023-02-23,Keyboard,Accessories,West,Website,6,65,0.05,370.5,221.92,148.58
+ORD000055,2023-02-24,Keyboard,Accessories,South,Marketplace,6,65,0.15,331.5,188.24,143.26
+ORD000056,2023-02-25,Laptop,Computers,North,Website,7,850,0.15,5057.5,3665.11,1392.39
+ORD000057,2023-02-26,SSD,Storage,South,Website,6,110,0.2,528.0,297.13,230.87
+ORD000058,2023-02-27,Keyboard,Accessories,East,Mobile App,1,65,0.05,61.75,47.43,14.32
+ORD000059,2023-02-28,Office Chair,Furniture,North,Mobile App,3,180,0.05,513.0,363.6,149.4
+ORD000060,2023-03-01,Headphones,Audio,West,Mobile App,2,95,0.05,180.5,116.85,63.65
+ORD000061,2023-03-02,Headphones,Audio,North,Marketplace,3,95,0.1,256.5,180.62,75.88
+ORD000062,2023-03-03,Headphones,Audio,West,Mobile App,5,95,0.2,380.0,220.53,159.47
+ORD000063,2023-03-04,Headphones,Audio,South,Mobile App,3,95,0.1,256.5,178.72,77.78
+ORD000064,2023-03-05,Laptop,Computers,East,Marketplace,6,850,0.05,4845.0,3690.07,1154.93
+ORD000065,2023-03-06,Mouse,Accessories,South,Website,5,35,0.1,157.5,86.63,70.87
+ORD000066,2023-03-07,Monitor,Computers,North,Website,5,220,0.05,1045.0,800.22,244.78
+ORD000067,2023-03-08,Keyboard,Accessories,South,Marketplace,10,65,0.1,585.0,363.56,221.44
+ORD000068,2023-03-09,Laptop,Computers,East,Marketplace,6,850,0.0,5100.0,3270.6,1829.4
+ORD000069,2023-03-10,Office Chair,Furniture,East,Marketplace,1,180,0.0,180.0,137.9,42.1
+ORD000070,2023-03-11,Monitor,Computers,South,Marketplace,6,220,0.05,1254.0,919.45,334.55
+ORD000071,2023-03-12,Headphones,Audio,North,Marketplace,5,95,0.0,475.0,303.3,171.7
+ORD000072,2023-03-13,Keyboard,Accessories,South,Marketplace,3,65,0.0,195.0,151.18,43.82
+ORD000073,2023-03-14,SSD,Storage,West,Marketplace,8,110,0.2,704.0,392.48,311.52
+ORD000074,2023-03-15,Headphones,Audio,South,Marketplace,7,95,0.1,598.5,420.09,178.41
+ORD000075,2023-03-16,Laptop,Computers,West,Website,5,850,0.05,4037.5,2693.69,1343.81
+ORD000076,2023-03-17,SSD,Storage,North,Marketplace,3,110,0.2,264.0,199.09,64.91
+ORD000077,2023-03-18,Office Chair,Furniture,North,Marketplace,8,180,0.0,1440.0,798.19,641.81
+ORD000078,2023-03-19,Office Chair,Furniture,North,Marketplace,2,180,0.05,342.0,213.4,128.6
+ORD000079,2023-03-20,Mouse,Accessories,East,Website,3,35,0.15,89.25,58.91,30.34
+ORD000080,2023-03-21,Laptop,Computers,West,Website,7,850,0.2,4760.0,2698.23,2061.77
+ORD000081,2023-03-22,Monitor,Computers,South,Marketplace,3,220,0.1,594.0,414.9,179.1
+ORD000082,2023-03-23,Office Chair,Furniture,North,Website,5,180,0.0,900.0,670.46,229.54
+ORD000083,2023-03-24,Mouse,Accessories,West,Marketplace,7,35,0.1,220.5,167.24,53.26
+ORD000084,2023-03-25,Monitor,Computers,East,Website,2,220,0.0,440.0,256.59,183.41
+ORD000085,2023-03-26,SSD,Storage,West,Marketplace,2,110,0.0,220.0,146.62,73.38
+ORD000086,2023-03-27,Headphones,Audio,South,Website,7,95,0.15,565.25,438.95,126.3
+ORD000087,2023-03-28,Mouse,Accessories,North,Mobile App,4,35,0.0,140.0,79.3,60.7
+ORD000088,2023-03-29,Keyboard,Accessories,East,Website,5,65,0.0,325.0,231.44,93.56
+ORD000089,2023-03-30,Keyboard,Accessories,West,Website,4,65,0.0,260.0,160.1,99.9
+ORD000090,2023-03-31,Monitor,Computers,East,Marketplace,6,220,0.1,1188.0,901.65,286.35
+ORD000091,2023-04-01,Laptop,Computers,South,Marketplace,6,850,0.1,4590.0,3166.59,1423.41
+ORD000092,2023-04-02,SSD,Storage,South,Website,4,110,0.0,440.0,332.7,107.3
+ORD000093,2023-04-03,Mouse,Accessories,North,Website,2,35,0.05,66.5,37.35,29.15
+ORD000094,2023-04-04,Mouse,Accessories,West,Marketplace,8,35,0.2,224.0,154.4,69.6
+ORD000095,2023-04-05,Keyboard,Accessories,East,Website,5,65,0.0,325.0,210.15,114.85
+ORD000096,2023-04-06,Webcam,Accessories,East,Website,6,75,0.0,450.0,258.66,191.34
+ORD000097,2023-04-07,Laptop,Computers,North,Marketplace,2,850,0.1,1530.0,985.46,544.54
+ORD000098,2023-04-08,Keyboard,Accessories,West,Website,6,65,0.0,390.0,281.02,108.98
+ORD000099,2023-04-09,Laptop,Computers,South,Website,1,850,0.1,765.0,523.17,241.83
+ORD000100,2023-04-10,Laptop,Computers,East,Mobile App,6,850,0.0,5100.0,3501.61,1598.39
+ORD000101,2023-04-11,Office Chair,Furniture,East,Website,6,180,0.0,1080.0,663.43,416.57
+ORD000102,2023-04-12,Headphones,Audio,West,Mobile App,1,95,0.1,85.5,57.03,28.47
+ORD000103,2023-04-13,Mouse,Accessories,West,Mobile App,6,35,0.1,189.0,123.35,65.65
+ORD000104,2023-04-14,Mouse,Accessories,West,Website,5,35,0.05,166.25,126.23,40.02
+ORD000105,2023-04-15,SSD,Storage,East,Mobile App,6,110,0.0,660.0,496.27,163.73
+ORD000106,2023-04-16,Keyboard,Accessories,East,Website,6,65,0.2,312.0,202.99,109.01
+ORD000107,2023-04-17,Headphones,Audio,East,Marketplace,2,95,0.0,190.0,126.49,63.51
+ORD000108,2023-04-18,Headphones,Audio,South,Website,2,95,0.0,190.0,117.29,72.71
+ORD000109,2023-04-19,Keyboard,Accessories,West,Website,3,65,0.05,185.25,126.04,59.21
+ORD000110,2023-04-20,Mouse,Accessories,South,Mobile App,2,35,0.0,70.0,40.6,29.4
+ORD000111,2023-04-21,Webcam,Accessories,West,Website,3,75,0.0,225.0,173.72,51.28
+ORD000112,2023-04-22,Office Chair,Furniture,North,Mobile App,5,180,0.15,765.0,493.67,271.33
+ORD000113,2023-04-23,Laptop,Computers,South,Website,5,850,0.0,4250.0,2346.41,1903.59
+ORD000114,2023-04-24,Office Chair,Furniture,East,Marketplace,9,180,0.15,1377.0,851.4,525.6
+ORD000115,2023-04-25,Laptop,Computers,East,Website,5,850,0.05,4037.5,3101.78,935.72
+ORD000116,2023-04-26,Webcam,Accessories,East,Marketplace,5,75,0.0,375.0,233.01,141.99
+ORD000117,2023-04-27,SSD,Storage,South,Mobile App,9,110,0.0,990.0,632.51,357.49
+ORD000118,2023-04-28,Laptop,Computers,West,Marketplace,2,850,0.1,1530.0,1184.53,345.47
+ORD000119,2023-04-29,Keyboard,Accessories,North,Website,3,65,0.1,175.5,128.21,47.29
+ORD000120,2023-04-30,SSD,Storage,North,Website,5,110,0.0,550.0,348.11,201.89
+ORD000121,2023-05-01,Laptop,Computers,West,Website,7,850,0.0,5950.0,3498.23,2451.77
+ORD000122,2023-05-02,Headphones,Audio,North,Marketplace,6,95,0.15,484.5,310.01,174.49
+ORD000123,2023-05-03,SSD,Storage,West,Website,3,110,0.1,297.0,188.84,108.16
+ORD000124,2023-05-04,Mouse,Accessories,East,Mobile App,5,35,0.1,157.5,119.03,38.47
+ORD000125,2023-05-05,Webcam,Accessories,North,Mobile App,5,75,0.15,318.75,214.85,103.9
+ORD000126,2023-05-06,Monitor,Computers,East,Mobile App,5,220,0.0,1100.0,838.98,261.02
+ORD000127,2023-05-07,Monitor,Computers,East,Website,8,220,0.05,1672.0,1298.83,373.17
+ORD000128,2023-05-08,Keyboard,Accessories,North,Website,3,65,0.15,165.75,124.31,41.44
+ORD000129,2023-05-09,Monitor,Computers,South,Mobile App,2,220,0.05,418.0,268.99,149.01
+ORD000130,2023-05-10,Keyboard,Accessories,North,Marketplace,1,65,0.05,61.75,39.51,22.24
+ORD000131,2023-05-11,Office Chair,Furniture,North,Website,5,180,0.15,765.0,517.08,247.92
+ORD000132,2023-05-12,Headphones,Audio,South,Website,3,95,0.2,228.0,161.02,66.98
+ORD000133,2023-05-13,Keyboard,Accessories,North,Website,3,65,0.15,165.75,123.52,42.23
+ORD000134,2023-05-14,Monitor,Computers,South,Marketplace,3,220,0.1,594.0,438.39,155.61
+ORD000135,2023-05-15,Office Chair,Furniture,South,Marketplace,6,180,0.05,1026.0,638.15,387.85
+ORD000136,2023-05-16,Mouse,Accessories,North,Website,3,35,0.1,94.5,67.97,26.53
+ORD000137,2023-05-17,Office Chair,Furniture,West,Mobile App,6,180,0.0,1080.0,687.43,392.57
+ORD000138,2023-05-18,Mouse,Accessories,North,Marketplace,3,35,0.0,105.0,76.5,28.5
+ORD000139,2023-05-19,Mouse,Accessories,East,Marketplace,5,35,0.0,175.0,96.79,78.21
+ORD000140,2023-05-20,SSD,Storage,North,Website,3,110,0.1,297.0,221.33,75.67
+ORD000141,2023-05-21,Webcam,Accessories,East,Website,6,75,0.15,382.5,271.78,110.72
+ORD000142,2023-05-22,Headphones,Audio,North,Website,6,95,0.1,513.0,299.46,213.54
+ORD000143,2023-05-23,Mouse,Accessories,East,Mobile App,6,35,0.0,210.0,127.59,82.41
+ORD000144,2023-05-24,SSD,Storage,North,Website,1,110,0.1,99.0,61.54,37.46
+ORD000145,2023-05-25,Keyboard,Accessories,West,Website,4,65,0.05,247.0,165.02,81.98
+ORD000146,2023-05-26,Office Chair,Furniture,North,Website,3,180,0.15,459.0,348.06,110.94
+ORD000147,2023-05-27,Laptop,Computers,West,Mobile App,4,850,0.05,3230.0,2497.54,732.46
+ORD000148,2023-05-28,Mouse,Accessories,South,Marketplace,1,35,0.0,35.0,24.1,10.9
+ORD000149,2023-05-29,Mouse,Accessories,North,Website,3,35,0.0,105.0,60.39,44.61
+ORD000150,2023-05-30,Office Chair,Furniture,East,Website,4,180,0.0,720.0,558.02,161.98
+ORD000151,2023-05-31,Monitor,Computers,West,Website,6,220,0.05,1254.0,966.73,287.27
+ORD000152,2023-06-01,SSD,Storage,East,Website,3,110,0.05,313.5,178.78,134.72
+ORD000153,2023-06-02,Headphones,Audio,West,Mobile App,6,95,0.05,541.5,380.74,160.76
+ORD000154,2023-06-03,Webcam,Accessories,East,Mobile App,3,75,0.1,202.5,142.42,60.08
+ORD000155,2023-06-04,Headphones,Audio,West,Website,3,95,0.15,242.25,170.06,72.19
+ORD000156,2023-06-05,Office Chair,Furniture,South,Marketplace,3,180,0.15,459.0,329.0,130.0
+ORD000157,2023-06-06,Keyboard,Accessories,East,Website,3,65,0.1,175.5,96.73,78.77
+ORD000158,2023-06-07,Keyboard,Accessories,North,Website,7,65,0.05,432.25,268.43,163.82
+ORD000159,2023-06-08,Monitor,Computers,East,Website,3,220,0.0,660.0,414.24,245.76
+ORD000160,2023-06-09,Laptop,Computers,North,Website,3,850,0.1,2295.0,1604.97,690.03
+ORD000161,2023-06-10,Monitor,Computers,South,Marketplace,5,220,0.0,1100.0,629.06,470.94
+ORD000162,2023-06-11,Office Chair,Furniture,North,Website,3,180,0.0,540.0,331.33,208.67
+ORD000163,2023-06-12,SSD,Storage,North,Marketplace,2,110,0.1,198.0,116.88,81.12
+ORD000164,2023-06-13,Laptop,Computers,West,Mobile App,6,850,0.0,5100.0,2860.52,2239.48
+ORD000165,2023-06-14,Headphones,Audio,North,Marketplace,2,95,0.15,161.5,106.41,55.09
+ORD000166,2023-06-15,Mouse,Accessories,West,Website,2,35,0.1,63.0,37.61,25.39
+ORD000167,2023-06-16,Headphones,Audio,East,Website,3,95,0.05,270.75,178.94,91.81
+ORD000168,2023-06-17,Headphones,Audio,East,Marketplace,2,95,0.15,161.5,96.48,65.02
+ORD000169,2023-06-18,Keyboard,Accessories,West,Marketplace,7,65,0.0,455.0,333.13,121.87
+ORD000170,2023-06-19,Office Chair,Furniture,East,Marketplace,7,180,0.05,1197.0,689.08,507.92
+ORD000171,2023-06-20,Mouse,Accessories,West,Website,5,35,0.05,166.25,120.93,45.32
+ORD000172,2023-06-21,Headphones,Audio,East,Website,4,95,0.2,304.0,213.17,90.83
+ORD000173,2023-06-22,Headphones,Audio,North,Mobile App,4,95,0.0,380.0,222.83,157.17
+ORD000174,2023-06-23,Monitor,Computers,West,Marketplace,2,220,0.1,396.0,252.27,143.73
+ORD000175,2023-06-24,Laptop,Computers,East,Website,3,850,0.15,2167.5,1382.67,784.83
+ORD000176,2023-06-25,Keyboard,Accessories,North,Marketplace,5,65,0.0,325.0,212.75,112.25
+ORD000177,2023-06-26,Webcam,Accessories,North,Website,4,75,0.1,270.0,190.4,79.6
+ORD000178,2023-06-27,SSD,Storage,West,Marketplace,3,110,0.1,297.0,164.37,132.63
+ORD000179,2023-06-28,Webcam,Accessories,East,Marketplace,5,75,0.05,356.25,209.51,146.74
+ORD000180,2023-06-29,Laptop,Computers,East,Marketplace,6,850,0.05,4845.0,3443.18,1401.82
+ORD000181,2023-06-30,Office Chair,Furniture,South,Website,5,180,0.15,765.0,437.1,327.9
+ORD000182,2023-07-01,SSD,Storage,South,Mobile App,6,110,0.05,627.0,466.59,160.41
+ORD000183,2023-07-02,SSD,Storage,East,Mobile App,2,110,0.05,209.0,132.76,76.24
+ORD000184,2023-07-03,Mouse,Accessories,South,Mobile App,3,35,0.1,94.5,52.76,41.74
+ORD000185,2023-07-04,Office Chair,Furniture,East,Marketplace,6,180,0.0,1080.0,784.86,295.14
+ORD000186,2023-07-05,Laptop,Computers,North,Website,4,850,0.15,2890.0,1752.4,1137.6
+ORD000187,2023-07-06,Laptop,Computers,West,Mobile App,7,850,0.0,5950.0,4638.97,1311.03
+ORD000188,2023-07-07,Laptop,Computers,East,Marketplace,5,850,0.2,3400.0,2591.48,808.52
+ORD000189,2023-07-08,Monitor,Computers,North,Marketplace,3,220,0.2,528.0,397.91,130.09
+ORD000190,2023-07-09,Monitor,Computers,West,Marketplace,5,220,0.15,935.0,704.32,230.68
+ORD000191,2023-07-10,Monitor,Computers,East,Website,4,220,0.15,748.0,424.06,323.94
+ORD000192,2023-07-11,Mouse,Accessories,West,Mobile App,7,35,0.1,220.5,122.63,97.87
+ORD000193,2023-07-12,Laptop,Computers,West,Marketplace,3,850,0.05,2422.5,1555.8,866.7
+ORD000194,2023-07-13,Headphones,Audio,North,Website,3,95,0.1,256.5,165.88,90.62
+ORD000195,2023-07-14,Monitor,Computers,East,Website,5,220,0.1,990.0,637.58,352.42
+ORD000196,2023-07-15,Headphones,Audio,North,Website,5,95,0.0,475.0,326.45,148.55
+ORD000197,2023-07-16,Laptop,Computers,East,Website,5,850,0.1,3825.0,2793.41,1031.59
+ORD000198,2023-07-17,Keyboard,Accessories,South,Mobile App,6,65,0.05,370.5,270.95,99.55
+ORD000199,2023-07-18,Office Chair,Furniture,West,Website,3,180,0.05,513.0,391.9,121.1
+ORD000200,2023-07-19,Mouse,Accessories,North,Website,7,35,0.0,245.0,172.87,72.13
+ORD000201,2023-07-20,SSD,Storage,East,Mobile App,5,110,0.0,550.0,413.48,136.52
+ORD000202,2023-07-21,Headphones,Audio,North,Website,5,95,0.15,403.75,230.54,173.21
+ORD000203,2023-07-22,Headphones,Audio,West,Website,2,95,0.1,171.0,95.07,75.93
+ORD000204,2023-07-23,Monitor,Computers,East,Marketplace,4,220,0.0,880.0,575.39,304.61
+ORD000205,2023-07-24,Headphones,Audio,East,Website,4,95,0.1,342.0,257.54,84.46
+ORD000206,2023-07-25,Laptop,Computers,South,Marketplace,7,850,0.15,5057.5,3230.03,1827.47
+ORD000207,2023-07-26,SSD,Storage,North,Mobile App,5,110,0.1,495.0,284.87,210.13
+ORD000208,2023-07-27,Office Chair,Furniture,East,Marketplace,3,180,0.1,486.0,281.41,204.59
+ORD000209,2023-07-28,SSD,Storage,North,Website,3,110,0.0,330.0,198.87,131.13
+ORD000210,2023-07-29,Laptop,Computers,South,Website,4,850,0.1,3060.0,2290.87,769.13
+ORD000211,2023-07-30,Keyboard,Accessories,North,Marketplace,7,65,0.05,432.25,271.16,161.09
+ORD000212,2023-07-31,Keyboard,Accessories,West,Mobile App,3,65,0.15,165.75,123.92,41.83
+ORD000213,2023-08-01,Laptop,Computers,East,Marketplace,2,850,0.1,1530.0,1173.07,356.93
+ORD000214,2023-08-02,Headphones,Audio,East,Marketplace,8,95,0.05,722.0,525.73,196.27
+ORD000215,2023-08-03,SSD,Storage,East,Marketplace,6,110,0.15,561.0,427.7,133.3
+ORD000216,2023-08-04,Keyboard,Accessories,North,Website,4,65,0.1,234.0,142.43,91.57
+ORD000217,2023-08-05,SSD,Storage,West,Marketplace,2,110,0.0,220.0,130.85,89.15
+ORD000218,2023-08-06,SSD,Storage,West,Website,3,110,0.0,330.0,199.85,130.15
+ORD000219,2023-08-07,Laptop,Computers,East,Website,5,850,0.0,4250.0,2354.99,1895.01
+ORD000220,2023-08-08,Webcam,Accessories,South,Mobile App,3,75,0.1,202.5,154.73,47.77
+ORD000221,2023-08-09,SSD,Storage,South,Website,2,110,0.0,220.0,131.43,88.57
+ORD000222,2023-08-10,Monitor,Computers,South,Marketplace,7,220,0.0,1540.0,1070.15,469.85
+ORD000223,2023-08-11,Headphones,Audio,West,Marketplace,2,95,0.1,171.0,105.24,65.76
+ORD000224,2023-08-12,Headphones,Audio,South,Website,5,95,0.05,451.25,304.23,147.02
+ORD000225,2023-08-13,Headphones,Audio,West,Mobile App,8,95,0.0,760.0,494.18,265.82
+ORD000226,2023-08-14,Laptop,Computers,South,Website,3,850,0.0,2550.0,1825.33,724.67
+ORD000227,2023-08-15,Headphones,Audio,West,Mobile App,2,95,0.0,190.0,113.28,76.72
+ORD000228,2023-08-16,Headphones,Audio,South,Website,4,95,0.1,342.0,210.81,131.19
+ORD000229,2023-08-17,SSD,Storage,South,Marketplace,1,110,0.0,110.0,64.0,46.0
+ORD000230,2023-08-18,SSD,Storage,South,Mobile App,4,110,0.2,352.0,219.9,132.1
+ORD000231,2023-08-19,Keyboard,Accessories,South,Mobile App,4,65,0.0,260.0,192.86,67.14
+ORD000232,2023-08-20,Webcam,Accessories,North,Website,5,75,0.05,356.25,274.89,81.36
+ORD000233,2023-08-21,SSD,Storage,South,Website,4,110,0.0,440.0,243.53,196.47
+ORD000234,2023-08-22,SSD,Storage,West,Marketplace,3,110,0.15,280.5,208.8,71.7
+ORD000235,2023-08-23,Monitor,Computers,North,Marketplace,3,220,0.1,594.0,426.98,167.02
+ORD000236,2023-08-24,Laptop,Computers,North,Website,4,850,0.0,3400.0,1931.92,1468.08
+ORD000237,2023-08-25,Headphones,Audio,South,Website,3,95,0.0,285.0,167.27,117.73
+ORD000238,2023-08-26,Monitor,Computers,South,Mobile App,4,220,0.0,880.0,659.16,220.84
+ORD000239,2023-08-27,Mouse,Accessories,West,Marketplace,5,35,0.1,157.5,93.66,63.84
+ORD000240,2023-08-28,Office Chair,Furniture,South,Website,3,180,0.1,486.0,368.8,117.2
+ORD000241,2023-08-29,Keyboard,Accessories,West,Marketplace,4,65,0.1,234.0,157.76,76.24
+ORD000242,2023-08-30,Monitor,Computers,North,Website,3,220,0.05,627.0,486.81,140.19
+ORD000243,2023-08-31,Mouse,Accessories,East,Mobile App,3,35,0.05,99.75,66.44,33.31
+ORD000244,2023-09-01,Headphones,Audio,North,Website,6,95,0.1,513.0,297.62,215.38
+ORD000245,2023-09-02,Laptop,Computers,West,Website,4,850,0.0,3400.0,2343.94,1056.06
+ORD000246,2023-09-03,Keyboard,Accessories,South,Website,1,65,0.1,58.5,38.17,20.33
+ORD000247,2023-09-04,Laptop,Computers,East,Website,3,850,0.1,2295.0,1299.65,995.35
+ORD000248,2023-09-05,Headphones,Audio,East,Mobile App,4,95,0.1,342.0,252.48,89.52
+ORD000249,2023-09-06,SSD,Storage,South,Website,5,110,0.0,550.0,416.24,133.76
+ORD000250,2023-09-07,Keyboard,Accessories,East,Website,2,65,0.0,130.0,100.32,29.68
+ORD000251,2023-09-08,Keyboard,Accessories,East,Mobile App,7,65,0.2,364.0,254.14,109.86
+ORD000252,2023-09-09,Mouse,Accessories,South,Website,4,35,0.15,119.0,81.41,37.59
+ORD000253,2023-09-10,Monitor,Computers,East,Marketplace,1,220,0.1,198.0,117.78,80.22
+ORD000254,2023-09-11,Monitor,Computers,East,Mobile App,2,220,0.1,396.0,305.61,90.39
+ORD000255,2023-09-12,Keyboard,Accessories,West,Mobile App,4,65,0.05,247.0,177.6,69.4
+ORD000256,2023-09-13,Mouse,Accessories,East,Website,4,35,0.15,119.0,83.75,35.25
+ORD000257,2023-09-14,Laptop,Computers,South,Website,3,850,0.1,2295.0,1628.83,666.17
+ORD000258,2023-09-15,Webcam,Accessories,South,Website,4,75,0.05,285.0,211.92,73.08
+ORD000259,2023-09-16,Headphones,Audio,South,Marketplace,4,95,0.1,342.0,215.09,126.91
+ORD000260,2023-09-17,Keyboard,Accessories,North,Website,6,65,0.0,390.0,224.53,165.47
+ORD000261,2023-09-18,Laptop,Computers,North,Website,6,850,0.05,4845.0,3769.34,1075.66
+ORD000262,2023-09-19,Webcam,Accessories,East,Website,4,75,0.15,255.0,142.1,112.9
+ORD000263,2023-09-20,Laptop,Computers,West,Website,4,850,0.05,3230.0,1978.27,1251.73
+ORD000264,2023-09-21,Laptop,Computers,South,Marketplace,4,850,0.1,3060.0,2029.2,1030.8
+ORD000265,2023-09-22,Laptop,Computers,West,Website,3,850,0.1,2295.0,1283.46,1011.54
+ORD000266,2023-09-23,Laptop,Computers,West,Website,6,850,0.15,4335.0,2693.57,1641.43
+ORD000267,2023-09-24,Office Chair,Furniture,North,Website,6,180,0.0,1080.0,810.19,269.81
+ORD000268,2023-09-25,Monitor,Computers,North,Website,4,220,0.1,792.0,549.52,242.48
+ORD000269,2023-09-26,Keyboard,Accessories,West,Website,2,65,0.05,123.5,84.51,38.99
+ORD000270,2023-09-27,SSD,Storage,East,Website,3,110,0.0,330.0,182.89,147.11
+ORD000271,2023-09-28,Headphones,Audio,South,Marketplace,2,95,0.0,190.0,123.17,66.83
+ORD000272,2023-09-29,Monitor,Computers,South,Website,2,220,0.1,396.0,228.91,167.09
+ORD000273,2023-09-30,Mouse,Accessories,North,Marketplace,3,35,0.0,105.0,67.1,37.9
+ORD000274,2023-10-01,SSD,Storage,North,Website,4,110,0.1,396.0,253.2,142.8
+ORD000275,2023-10-02,Keyboard,Accessories,East,Website,4,65,0.05,247.0,159.97,87.03
+ORD000276,2023-10-03,Webcam,Accessories,West,Website,4,75,0.05,285.0,177.46,107.54
+ORD000277,2023-10-04,Laptop,Computers,South,Mobile App,5,850,0.15,3612.5,2635.94,976.56
+ORD000278,2023-10-05,Webcam,Accessories,North,Website,3,75,0.0,225.0,147.72,77.28
+ORD000279,2023-10-06,Webcam,Accessories,South,Website,2,75,0.1,135.0,102.44,32.56
+ORD000280,2023-10-07,SSD,Storage,West,Mobile App,3,110,0.05,313.5,197.23,116.27
+ORD000281,2023-10-08,Headphones,Audio,West,Website,4,95,0.0,380.0,221.55,158.45
+ORD000282,2023-10-09,Keyboard,Accessories,West,Website,8,65,0.05,494.0,312.05,181.95
+ORD000283,2023-10-10,Laptop,Computers,East,Website,5,850,0.15,3612.5,2711.06,901.44
+ORD000284,2023-10-11,Mouse,Accessories,West,Mobile App,3,35,0.0,105.0,66.42,38.58
+ORD000285,2023-10-12,Webcam,Accessories,East,Website,3,75,0.1,202.5,149.59,52.91
+ORD000286,2023-10-13,Monitor,Computers,North,Mobile App,3,220,0.0,660.0,468.2,191.8
+ORD000287,2023-10-14,Monitor,Computers,East,Website,5,220,0.05,1045.0,636.87,408.13
+ORD000288,2023-10-15,Mouse,Accessories,North,Marketplace,4,35,0.1,126.0,74.84,51.16
+ORD000289,2023-10-16,Webcam,Accessories,West,Marketplace,3,75,0.0,225.0,129.59,95.41
+ORD000290,2023-10-17,SSD,Storage,North,Marketplace,2,110,0.15,187.0,122.18,64.82
+ORD000291,2023-10-18,Laptop,Computers,East,Marketplace,2,850,0.05,1615.0,1146.26,468.74
+ORD000292,2023-10-19,Monitor,Computers,South,Website,4,220,0.0,880.0,543.5,336.5
+ORD000293,2023-10-20,SSD,Storage,North,Website,2,110,0.0,220.0,169.3,50.7
+ORD000294,2023-10-21,Headphones,Audio,West,Mobile App,5,95,0.2,380.0,210.24,169.76
+ORD000295,2023-10-22,Webcam,Accessories,East,Website,5,75,0.15,318.75,232.9,85.85
+ORD000296,2023-10-23,Office Chair,Furniture,East,Marketplace,5,180,0.05,855.0,503.68,351.32
+ORD000297,2023-10-24,Office Chair,Furniture,West,Marketplace,2,180,0.0,360.0,280.63,79.37
+ORD000298,2023-10-25,SSD,Storage,North,Mobile App,4,110,0.1,396.0,226.76,169.24
+ORD000299,2023-10-26,Webcam,Accessories,West,Website,5,75,0.0,375.0,285.69,89.31
+ORD000300,2023-10-27,Keyboard,Accessories,North,Website,2,65,0.15,110.5,70.98,39.52
+ORD000301,2023-10-28,Headphones,Audio,North,Mobile App,3,95,0.0,285.0,175.53,109.47
+ORD000302,2023-10-29,Monitor,Computers,East,Marketplace,4,220,0.0,880.0,492.26,387.74
+ORD000303,2023-10-30,Webcam,Accessories,North,Marketplace,7,75,0.05,498.75,299.47,199.28
+ORD000304,2023-10-31,Webcam,Accessories,East,Marketplace,3,75,0.05,213.75,136.4,77.35
+ORD000305,2023-11-01,Webcam,Accessories,West,Marketplace,2,75,0.0,150.0,114.78,35.22
+ORD000306,2023-11-02,Mouse,Accessories,North,Mobile App,1,35,0.0,35.0,27.04,7.96
+ORD000307,2023-11-03,Keyboard,Accessories,North,Marketplace,9,65,0.2,468.0,265.97,202.03
+ORD000308,2023-11-04,Keyboard,Accessories,East,Website,3,65,0.1,175.5,119.21,56.29
+ORD000309,2023-11-05,Laptop,Computers,South,Mobile App,3,850,0.0,2550.0,1421.59,1128.41
+ORD000310,2023-11-06,SSD,Storage,North,Website,3,110,0.15,280.5,160.97,119.53
+ORD000311,2023-11-07,Mouse,Accessories,East,Mobile App,3,35,0.05,99.75,68.99,30.76
+ORD000312,2023-11-08,Keyboard,Accessories,South,Website,5,65,0.2,260.0,174.5,85.5
+ORD000313,2023-11-09,Mouse,Accessories,East,Marketplace,4,35,0.05,133.0,100.69,32.31
+ORD000314,2023-11-10,Webcam,Accessories,North,Marketplace,6,75,0.05,427.5,323.98,103.52
+ORD000315,2023-11-11,Keyboard,Accessories,East,Website,1,65,0.1,58.5,34.32,24.18
+ORD000316,2023-11-12,SSD,Storage,West,Marketplace,7,110,0.05,731.5,508.97,222.53
+ORD000317,2023-11-13,Office Chair,Furniture,North,Marketplace,9,180,0.0,1620.0,1191.44,428.56
+ORD000318,2023-11-14,Keyboard,Accessories,South,Website,6,65,0.05,370.5,269.61,100.89
+ORD000319,2023-11-15,Laptop,Computers,North,Mobile App,1,850,0.1,765.0,520.56,244.44
+ORD000320,2023-11-16,Webcam,Accessories,East,Marketplace,6,75,0.05,427.5,285.49,142.01
+ORD000321,2023-11-17,Office Chair,Furniture,South,Website,6,180,0.15,918.0,625.48,292.52
+ORD000322,2023-11-18,Laptop,Computers,North,Mobile App,9,850,0.1,6885.0,4441.0,2444.0
+ORD000323,2023-11-19,Webcam,Accessories,South,Website,3,75,0.1,202.5,137.7,64.8
+ORD000324,2023-11-20,SSD,Storage,South,Website,7,110,0.1,693.0,523.27,169.73
+ORD000325,2023-11-21,Office Chair,Furniture,North,Mobile App,3,180,0.0,540.0,340.22,199.78
+ORD000326,2023-11-22,Laptop,Computers,East,Website,3,850,0.1,2295.0,1494.87,800.13
+ORD000327,2023-11-23,Laptop,Computers,South,Mobile App,3,850,0.0,2550.0,1659.42,890.58
+ORD000328,2023-11-24,Office Chair,Furniture,East,Website,3,180,0.0,540.0,404.62,135.38
+ORD000329,2023-11-25,Laptop,Computers,West,Mobile App,7,850,0.05,5652.5,3427.05,2225.45
+ORD000330,2023-11-26,Monitor,Computers,West,Website,5,220,0.0,1100.0,716.17,383.83
+ORD000331,2023-11-27,Headphones,Audio,South,Marketplace,6,95,0.0,570.0,411.99,158.01
+ORD000332,2023-11-28,Mouse,Accessories,North,Marketplace,10,35,0.1,315.0,201.67,113.33
+ORD000333,2023-11-29,Webcam,Accessories,South,Website,6,75,0.2,360.0,268.84,91.16
+ORD000334,2023-11-30,Monitor,Computers,North,Marketplace,3,220,0.0,660.0,444.64,215.36
+ORD000335,2023-12-01,Office Chair,Furniture,West,Marketplace,5,180,0.05,855.0,489.7,365.3
+ORD000336,2023-12-02,Monitor,Computers,South,Website,5,220,0.0,1100.0,697.79,402.21
+ORD000337,2023-12-03,Webcam,Accessories,West,Mobile App,7,75,0.05,498.75,291.1,207.65
+ORD000338,2023-12-04,Laptop,Computers,South,Mobile App,5,850,0.1,3825.0,2490.28,1334.72
+ORD000339,2023-12-05,Mouse,Accessories,North,Website,7,35,0.05,232.75,147.51,85.24
+ORD000340,2023-12-06,Laptop,Computers,West,Website,4,850,0.0,3400.0,2135.39,1264.61
+ORD000341,2023-12-07,Keyboard,Accessories,North,Website,1,65,0.1,58.5,43.33,15.17
+ORD000342,2023-12-08,Keyboard,Accessories,South,Marketplace,6,65,0.05,370.5,280.24,90.26
+ORD000343,2023-12-09,Webcam,Accessories,West,Marketplace,5,75,0.1,337.5,244.29,93.21
+ORD000344,2023-12-10,Mouse,Accessories,South,Website,5,35,0.1,157.5,114.38,43.12
+ORD000345,2023-12-11,Laptop,Computers,West,Marketplace,9,850,0.15,6502.5,4911.62,1590.88
+ORD000346,2023-12-12,Office Chair,Furniture,East,Website,5,180,0.05,855.0,650.7,204.3
+ORD000347,2023-12-13,SSD,Storage,North,Marketplace,8,110,0.15,748.0,441.4,306.6
+ORD000348,2023-12-14,Office Chair,Furniture,East,Marketplace,5,180,0.0,900.0,680.76,219.24
+ORD000349,2023-12-15,Monitor,Computers,North,Website,4,220,0.05,836.0,490.77,345.23
+ORD000350,2023-12-16,Keyboard,Accessories,South,Marketplace,6,65,0.0,390.0,238.89,151.11
+ORD000351,2023-12-17,Monitor,Computers,North,Marketplace,6,220,0.05,1254.0,917.8,336.2
+ORD000352,2023-12-18,Laptop,Computers,North,Mobile App,4,850,0.15,2890.0,1684.58,1205.42
+ORD000353,2023-12-19,Laptop,Computers,North,Website,2,850,0.2,1360.0,1049.7,310.3
+ORD000354,2023-12-20,Mouse,Accessories,East,Website,10,35,0.05,332.5,254.13,78.37
+ORD000355,2023-12-21,Laptop,Computers,North,Mobile App,5,850,0.0,4250.0,2337.58,1912.42
+ORD000356,2023-12-22,Monitor,Computers,North,Website,5,220,0.05,1045.0,727.7,317.3
+ORD000357,2023-12-23,SSD,Storage,North,Mobile App,6,110,0.15,561.0,427.96,133.04
+ORD000358,2023-12-24,Mouse,Accessories,West,Website,7,35,0.05,232.75,156.94,75.81
+ORD000359,2023-12-25,Monitor,Computers,West,Website,5,220,0.0,1100.0,740.94,359.06
+ORD000360,2023-12-26,Headphones,Audio,North,Mobile App,11,95,0.15,888.25,608.42,279.83
+ORD000361,2023-12-27,Monitor,Computers,East,Website,4,220,0.05,836.0,566.16,269.84
+ORD000362,2023-12-28,Mouse,Accessories,South,Website,5,35,0.05,166.25,113.68,52.57
+ORD000363,2023-12-29,Keyboard,Accessories,North,Website,2,65,0.15,110.5,78.07,32.43
+ORD000364,2023-12-30,Mouse,Accessories,East,Marketplace,1,35,0.1,31.5,24.25,7.25
+ORD000365,2023-12-31,Headphones,Audio,West,Marketplace,8,95,0.0,760.0,432.39,327.61
+ORD000366,2024-01-01,Mouse,Accessories,West,Website,3,35,0.2,84.0,50.72,33.28
+ORD000367,2024-01-02,Keyboard,Accessories,North,Website,5,65,0.05,308.75,170.22,138.53
+ORD000368,2024-01-03,SSD,Storage,South,Website,3,110,0.0,330.0,186.57,143.43
+ORD000369,2024-01-04,SSD,Storage,West,Mobile App,5,110,0.15,467.5,278.81,188.69
+ORD000370,2024-01-05,Monitor,Computers,South,Website,3,220,0.05,627.0,474.94,152.06
+ORD000371,2024-01-06,Laptop,Computers,North,Marketplace,3,850,0.1,2295.0,1428.62,866.38
+ORD000372,2024-01-07,Laptop,Computers,South,Mobile App,1,850,0.1,765.0,526.53,238.47
+ORD000373,2024-01-08,Office Chair,Furniture,South,Website,4,180,0.0,720.0,447.81,272.19
+ORD000374,2024-01-09,Office Chair,Furniture,North,Mobile App,3,180,0.2,432.0,335.75,96.25
+ORD000375,2024-01-10,Monitor,Computers,East,Website,5,220,0.1,990.0,588.35,401.65
+ORD000376,2024-01-11,Office Chair,Furniture,South,Marketplace,2,180,0.0,360.0,230.69,129.31
+ORD000377,2024-01-12,Monitor,Computers,South,Website,3,220,0.05,627.0,398.18,228.82
+ORD000378,2024-01-13,Mouse,Accessories,West,Marketplace,4,35,0.0,140.0,83.88,56.12
+ORD000379,2024-01-14,Mouse,Accessories,East,Marketplace,3,35,0.2,84.0,47.63,36.37
+ORD000380,2024-01-15,Office Chair,Furniture,West,Marketplace,6,180,0.1,972.0,622.0,350.0
+ORD000381,2024-01-16,Laptop,Computers,South,Mobile App,4,850,0.05,3230.0,1926.32,1303.68
+ORD000382,2024-01-17,Keyboard,Accessories,South,Website,1,65,0.1,58.5,32.49,26.01
+ORD000383,2024-01-18,Headphones,Audio,West,Website,3,95,0.1,256.5,193.33,63.17
+ORD000384,2024-01-19,Laptop,Computers,West,Mobile App,4,850,0.1,3060.0,1924.5,1135.5
+ORD000385,2024-01-20,Monitor,Computers,South,Marketplace,3,220,0.0,660.0,364.76,295.24
+ORD000386,2024-01-21,Mouse,Accessories,North,Marketplace,7,35,0.0,245.0,169.47,75.53
+ORD000387,2024-01-22,SSD,Storage,West,Marketplace,2,110,0.15,187.0,123.42,63.58
+ORD000388,2024-01-23,Webcam,Accessories,East,Website,8,75,0.15,510.0,361.4,148.6
+ORD000389,2024-01-24,SSD,Storage,South,Website,3,110,0.05,313.5,198.39,115.11
+ORD000390,2024-01-25,Webcam,Accessories,North,Website,2,75,0.05,142.5,82.97,59.53
+ORD000391,2024-01-26,Webcam,Accessories,East,Marketplace,5,75,0.05,356.25,248.34,107.91
+ORD000392,2024-01-27,SSD,Storage,South,Mobile App,3,110,0.0,330.0,211.74,118.26
+ORD000393,2024-01-28,Headphones,Audio,South,Marketplace,7,95,0.15,565.25,424.86,140.39
+ORD000394,2024-01-29,Webcam,Accessories,South,Mobile App,3,75,0.05,213.75,133.62,80.13
+ORD000395,2024-01-30,Keyboard,Accessories,East,Website,5,65,0.1,292.5,175.84,116.66
+ORD000396,2024-01-31,Monitor,Computers,South,Website,6,220,0.1,1188.0,704.21,483.79
+ORD000397,2024-02-01,Webcam,Accessories,West,Website,12,75,0.0,900.0,548.04,351.96
+ORD000398,2024-02-02,Monitor,Computers,West,Website,3,220,0.0,660.0,399.2,260.8
+ORD000399,2024-02-03,Office Chair,Furniture,North,Website,8,180,0.0,1440.0,964.84,475.16
+ORD000400,2024-02-04,Headphones,Audio,South,Website,5,95,0.05,451.25,286.82,164.43
+ORD000401,2024-02-05,Keyboard,Accessories,West,Website,3,65,0.1,175.5,135.66,39.84
+ORD000402,2024-02-06,Office Chair,Furniture,North,Marketplace,5,180,0.2,720.0,429.77,290.23
+ORD000403,2024-02-07,Laptop,Computers,South,Marketplace,1,850,0.15,722.5,553.63,168.87
+ORD000404,2024-02-08,Mouse,Accessories,North,Mobile App,4,35,0.1,126.0,79.03,46.97
+ORD000405,2024-02-09,Laptop,Computers,South,Mobile App,4,850,0.05,3230.0,2135.55,1094.45
+ORD000406,2024-02-10,Office Chair,Furniture,East,Website,2,180,0.05,342.0,263.56,78.44
+ORD000407,2024-02-11,Headphones,Audio,North,Mobile App,5,95,0.1,427.5,311.88,115.62
+ORD000408,2024-02-12,SSD,Storage,North,Marketplace,5,110,0.05,522.5,401.15,121.35
+ORD000409,2024-02-13,Keyboard,Accessories,North,Marketplace,8,65,0.1,468.0,315.4,152.6
+ORD000410,2024-02-14,SSD,Storage,North,Mobile App,5,110,0.1,495.0,308.44,186.56
+ORD000411,2024-02-15,Webcam,Accessories,West,Marketplace,8,75,0.0,600.0,423.17,176.83
+ORD000412,2024-02-16,Headphones,Audio,North,Website,7,95,0.15,565.25,399.96,165.29
+ORD000413,2024-02-17,Office Chair,Furniture,North,Website,2,180,0.0,360.0,201.44,158.56
+ORD000414,2024-02-18,Mouse,Accessories,West,Website,4,35,0.05,133.0,76.43,56.57
+ORD000415,2024-02-19,Keyboard,Accessories,South,Marketplace,1,65,0.2,52.0,39.92,12.08
+ORD000416,2024-02-20,Webcam,Accessories,South,Marketplace,10,75,0.1,675.0,483.17,191.83
+ORD000417,2024-02-21,SSD,Storage,South,Marketplace,5,110,0.15,467.5,345.61,121.89
+ORD000418,2024-02-22,Keyboard,Accessories,North,Website,5,65,0.15,276.25,163.88,112.37
+ORD000419,2024-02-23,Headphones,Audio,East,Website,4,95,0.0,380.0,294.17,85.83
+ORD000420,2024-02-24,Monitor,Computers,East,Marketplace,7,220,0.1,1386.0,858.23,527.77
+ORD000421,2024-02-25,Mouse,Accessories,South,Marketplace,7,35,0.05,232.75,135.51,97.24
+ORD000422,2024-02-26,Webcam,Accessories,South,Website,4,75,0.0,300.0,189.79,110.21
+ORD000423,2024-02-27,Laptop,Computers,North,Website,2,850,0.0,1700.0,1072.44,627.56
+ORD000424,2024-02-28,Webcam,Accessories,East,Website,6,75,0.0,450.0,253.53,196.47
+ORD000425,2024-02-29,Laptop,Computers,South,Marketplace,6,850,0.1,4590.0,3418.15,1171.85
+ORD000426,2024-03-01,Office Chair,Furniture,West,Marketplace,11,180,0.1,1782.0,1336.75,445.25
+ORD000427,2024-03-02,Mouse,Accessories,South,Website,6,35,0.15,178.5,106.28,72.22
+ORD000428,2024-03-03,Keyboard,Accessories,East,Mobile App,4,65,0.0,260.0,175.94,84.06
+ORD000429,2024-03-04,Webcam,Accessories,South,Website,5,75,0.1,337.5,253.21,84.29
+ORD000430,2024-03-05,Mouse,Accessories,East,Website,5,35,0.0,175.0,111.47,63.53
+ORD000431,2024-03-06,Webcam,Accessories,South,Website,4,75,0.05,285.0,190.12,94.88
+ORD000432,2024-03-07,Laptop,Computers,West,Mobile App,5,850,0.1,3825.0,2318.43,1506.57
+ORD000433,2024-03-08,Mouse,Accessories,South,Marketplace,4,35,0.05,133.0,87.47,45.53
+ORD000434,2024-03-09,Mouse,Accessories,East,Marketplace,5,35,0.2,140.0,87.06,52.94
+ORD000435,2024-03-10,Office Chair,Furniture,North,Mobile App,4,180,0.05,684.0,505.87,178.13
+ORD000436,2024-03-11,Laptop,Computers,South,Website,2,850,0.0,1700.0,997.24,702.76
+ORD000437,2024-03-12,Mouse,Accessories,West,Website,6,35,0.15,178.5,99.53,78.97
+ORD000438,2024-03-13,Headphones,Audio,West,Website,4,95,0.15,323.0,244.57,78.43
+ORD000439,2024-03-14,Mouse,Accessories,East,Marketplace,6,35,0.0,210.0,123.82,86.18
+ORD000440,2024-03-15,Laptop,Computers,West,Website,6,850,0.05,4845.0,3276.76,1568.24
+ORD000441,2024-03-16,Headphones,Audio,North,Website,4,95,0.05,361.0,257.42,103.58
+ORD000442,2024-03-17,Monitor,Computers,East,Marketplace,7,220,0.0,1540.0,962.75,577.25
+ORD000443,2024-03-18,Monitor,Computers,South,Mobile App,2,220,0.05,418.0,319.22,98.78
+ORD000444,2024-03-19,SSD,Storage,South,Mobile App,2,110,0.1,198.0,124.29,73.71
+ORD000445,2024-03-20,Monitor,Computers,West,Website,9,220,0.1,1782.0,1060.84,721.16
+ORD000446,2024-03-21,Mouse,Accessories,South,Website,6,35,0.0,210.0,118.66,91.34
+ORD000447,2024-03-22,Webcam,Accessories,East,Mobile App,2,75,0.05,142.5,107.86,34.64
+ORD000448,2024-03-23,Webcam,Accessories,North,Mobile App,5,75,0.0,375.0,224.88,150.12
+ORD000449,2024-03-24,Mouse,Accessories,North,Website,2,35,0.1,63.0,47.65,15.35
+ORD000450,2024-03-25,SSD,Storage,North,Mobile App,7,110,0.0,770.0,504.32,265.68
+ORD000451,2024-03-26,Mouse,Accessories,East,Marketplace,1,35,0.2,28.0,21.41,6.59
+ORD000452,2024-03-27,Headphones,Audio,West,Website,5,95,0.0,475.0,270.74,204.26
+ORD000453,2024-03-28,SSD,Storage,South,Website,1,110,0.05,104.5,78.03,26.47
+ORD000454,2024-03-29,Headphones,Audio,South,Website,5,95,0.1,427.5,331.42,96.08
+ORD000455,2024-03-30,Headphones,Audio,East,Website,6,95,0.15,484.5,345.69,138.81
+ORD000456,2024-03-31,Keyboard,Accessories,West,Marketplace,5,65,0.1,292.5,169.87,122.63
+ORD000457,2024-04-01,Mouse,Accessories,West,Marketplace,5,35,0.15,148.75,115.94,32.81
+ORD000458,2024-04-02,Keyboard,Accessories,East,Website,5,65,0.05,308.75,226.71,82.04
+ORD000459,2024-04-03,Webcam,Accessories,North,Marketplace,4,75,0.0,300.0,179.49,120.51
+ORD000460,2024-04-04,Keyboard,Accessories,East,Marketplace,4,65,0.05,247.0,190.98,56.02
+ORD000461,2024-04-05,Mouse,Accessories,North,Marketplace,4,35,0.1,126.0,71.8,54.2
+ORD000462,2024-04-06,Webcam,Accessories,West,Marketplace,5,75,0.05,356.25,206.58,149.67
+ORD000463,2024-04-07,Mouse,Accessories,East,Website,2,35,0.1,63.0,34.87,28.13
+ORD000464,2024-04-08,Keyboard,Accessories,South,Marketplace,4,65,0.05,247.0,169.5,77.5
+ORD000465,2024-04-09,SSD,Storage,North,Website,2,110,0.05,209.0,134.36,74.64
+ORD000466,2024-04-10,Keyboard,Accessories,East,Mobile App,6,65,0.05,370.5,211.08,159.42
+ORD000467,2024-04-11,SSD,Storage,East,Website,1,110,0.05,104.5,69.33,35.17
+ORD000468,2024-04-12,Webcam,Accessories,South,Mobile App,6,75,0.0,450.0,338.68,111.32
+ORD000469,2024-04-13,Mouse,Accessories,North,Marketplace,9,35,0.05,299.25,170.93,128.32
+ORD000470,2024-04-14,Webcam,Accessories,South,Website,6,75,0.1,405.0,282.26,122.74
+ORD000471,2024-04-15,Laptop,Computers,West,Marketplace,5,850,0.1,3825.0,2252.12,1572.88
+ORD000472,2024-04-16,Keyboard,Accessories,West,Website,6,65,0.05,370.5,247.3,123.2
+ORD000473,2024-04-17,SSD,Storage,West,Marketplace,5,110,0.1,495.0,311.27,183.73
+ORD000474,2024-04-18,Headphones,Audio,North,Marketplace,5,95,0.05,451.25,276.81,174.44
+ORD000475,2024-04-19,Mouse,Accessories,North,Marketplace,5,35,0.05,166.25,91.91,74.34
+ORD000476,2024-04-20,Headphones,Audio,West,Website,2,95,0.0,190.0,129.78,60.22
+ORD000477,2024-04-21,Headphones,Audio,North,Marketplace,5,95,0.1,427.5,278.73,148.77
+ORD000478,2024-04-22,Headphones,Audio,West,Website,7,95,0.15,565.25,400.77,164.48
+ORD000479,2024-04-23,Mouse,Accessories,East,Website,9,35,0.1,283.5,167.97,115.53
+ORD000480,2024-04-24,Monitor,Computers,West,Marketplace,4,220,0.0,880.0,683.08,196.92
+ORD000481,2024-04-25,Keyboard,Accessories,South,Mobile App,6,65,0.1,351.0,194.65,156.35
+ORD000482,2024-04-26,Keyboard,Accessories,South,Website,6,65,0.05,370.5,220.47,150.03
+ORD000483,2024-04-27,Mouse,Accessories,South,Mobile App,6,35,0.15,178.5,124.51,53.99
+ORD000484,2024-04-28,Office Chair,Furniture,South,Website,7,180,0.0,1260.0,731.83,528.17
+ORD000485,2024-04-29,Keyboard,Accessories,West,Marketplace,4,65,0.1,234.0,142.72,91.28
+ORD000486,2024-04-30,Mouse,Accessories,South,Website,6,35,0.05,199.5,132.75,66.75
+ORD000487,2024-05-01,Keyboard,Accessories,North,Marketplace,6,65,0.15,331.5,239.99,91.51
+ORD000488,2024-05-02,Headphones,Audio,South,Website,6,95,0.1,513.0,384.15,128.85
+ORD000489,2024-05-03,Office Chair,Furniture,North,Marketplace,4,180,0.0,720.0,448.46,271.54
+ORD000490,2024-05-04,SSD,Storage,North,Website,4,110,0.1,396.0,277.71,118.29
+ORD000491,2024-05-05,Keyboard,Accessories,North,Website,2,65,0.05,123.5,68.58,54.92
+ORD000492,2024-05-06,Monitor,Computers,West,Marketplace,9,220,0.0,1980.0,1494.6,485.4
+ORD000493,2024-05-07,SSD,Storage,South,Website,4,110,0.0,440.0,309.98,130.02
+ORD000494,2024-05-08,Mouse,Accessories,West,Mobile App,4,35,0.05,133.0,100.75,32.25
+ORD000495,2024-05-09,Headphones,Audio,East,Marketplace,4,95,0.1,342.0,204.65,137.35
+ORD000496,2024-05-10,Laptop,Computers,East,Mobile App,4,850,0.05,3230.0,2145.47,1084.53
+ORD000497,2024-05-11,SSD,Storage,North,Website,6,110,0.0,660.0,475.9,184.1
+ORD000498,2024-05-12,Keyboard,Accessories,West,Marketplace,4,65,0.0,260.0,144.51,115.49
+ORD000499,2024-05-13,Mouse,Accessories,East,Website,5,35,0.1,157.5,117.09,40.41
+ORD000500,2024-05-14,Monitor,Computers,South,Website,5,220,0.05,1045.0,744.87,300.13
+ORD000501,2024-05-15,Mouse,Accessories,South,Website,1,35,0.1,31.5,23.03,8.47
+ORD000502,2024-05-16,SSD,Storage,West,Website,2,110,0.05,209.0,122.76,86.24
+ORD000503,2024-05-17,SSD,Storage,East,Marketplace,4,110,0.0,440.0,320.64,119.36
+ORD000504,2024-05-18,Mouse,Accessories,West,Website,4,35,0.1,126.0,85.73,40.27
+ORD000505,2024-05-19,Webcam,Accessories,East,Website,7,75,0.0,525.0,306.85,218.15
+ORD000506,2024-05-20,Mouse,Accessories,East,Marketplace,4,35,0.0,140.0,81.25,58.75
+ORD000507,2024-05-21,Keyboard,Accessories,West,Website,5,65,0.05,308.75,230.72,78.03
+ORD000508,2024-05-22,Mouse,Accessories,West,Website,4,35,0.05,133.0,85.34,47.66
+ORD000509,2024-05-23,Monitor,Computers,North,Marketplace,6,220,0.0,1320.0,808.59,511.41
+ORD000510,2024-05-24,Keyboard,Accessories,East,Marketplace,6,65,0.2,312.0,198.02,113.98
+ORD000511,2024-05-25,Webcam,Accessories,South,Marketplace,5,75,0.0,375.0,265.3,109.7
+ORD000512,2024-05-26,Webcam,Accessories,East,Mobile App,2,75,0.0,150.0,87.2,62.8
+ORD000513,2024-05-27,Laptop,Computers,North,Mobile App,5,850,0.1,3825.0,2246.22,1578.78
+ORD000514,2024-05-28,Webcam,Accessories,South,Website,2,75,0.0,150.0,104.91,45.09
+ORD000515,2024-05-29,SSD,Storage,West,Mobile App,4,110,0.0,440.0,332.5,107.5
+ORD000516,2024-05-30,Mouse,Accessories,North,Marketplace,4,35,0.05,133.0,93.7,39.3
+ORD000517,2024-05-31,Laptop,Computers,North,Marketplace,7,850,0.0,5950.0,4565.81,1384.19
+ORD000518,2024-06-01,Headphones,Audio,North,Website,8,95,0.1,684.0,420.73,263.27
+ORD000519,2024-06-02,Monitor,Computers,West,Website,5,220,0.0,1100.0,694.58,405.42
+ORD000520,2024-06-03,Headphones,Audio,West,Marketplace,7,95,0.1,598.5,380.48,218.02
+ORD000521,2024-06-04,Keyboard,Accessories,East,Website,2,65,0.0,130.0,82.23,47.77
+ORD000522,2024-06-05,Headphones,Audio,North,Marketplace,7,95,0.1,598.5,366.16,232.34
+ORD000523,2024-06-06,Monitor,Computers,West,Website,7,220,0.2,1232.0,902.23,329.77
+ORD000524,2024-06-07,Mouse,Accessories,East,Marketplace,3,35,0.1,94.5,58.13,36.37
+ORD000525,2024-06-08,Mouse,Accessories,South,Marketplace,2,35,0.15,59.5,38.42,21.08
+ORD000526,2024-06-09,Headphones,Audio,North,Marketplace,2,95,0.05,180.5,118.89,61.61
+ORD000527,2024-06-10,Monitor,Computers,East,Website,9,220,0.0,1980.0,1542.7,437.3
+ORD000528,2024-06-11,Office Chair,Furniture,West,Marketplace,3,180,0.05,513.0,321.02,191.98
+ORD000529,2024-06-12,Keyboard,Accessories,South,Website,7,65,0.1,409.5,290.31,119.19
+ORD000530,2024-06-13,Keyboard,Accessories,West,Marketplace,3,65,0.0,195.0,121.94,73.06
+ORD000531,2024-06-14,Monitor,Computers,West,Marketplace,1,220,0.1,198.0,145.35,52.65
+ORD000532,2024-06-15,Laptop,Computers,East,Marketplace,5,850,0.05,4037.5,2580.63,1456.87
+ORD000533,2024-06-16,Mouse,Accessories,East,Marketplace,3,35,0.15,89.25,49.53,39.72
+ORD000534,2024-06-17,Webcam,Accessories,North,Website,7,75,0.05,498.75,334.32,164.43
+ORD000535,2024-06-18,Webcam,Accessories,North,Mobile App,6,75,0.05,427.5,268.32,159.18
+ORD000536,2024-06-19,Monitor,Computers,East,Mobile App,2,220,0.0,440.0,268.79,171.21
+ORD000537,2024-06-20,Laptop,Computers,North,Mobile App,1,850,0.05,807.5,498.47,309.03
+ORD000538,2024-06-21,Keyboard,Accessories,South,Mobile App,5,65,0.2,260.0,143.12,116.88
+ORD000539,2024-06-22,Webcam,Accessories,North,Website,6,75,0.05,427.5,306.97,120.53
+ORD000540,2024-06-23,Mouse,Accessories,West,Mobile App,4,35,0.1,126.0,85.17,40.83
+ORD000541,2024-06-24,Office Chair,Furniture,West,Marketplace,1,180,0.05,171.0,119.08,51.92
+ORD000542,2024-06-25,Headphones,Audio,North,Website,6,95,0.0,570.0,388.16,181.84
+ORD000543,2024-06-26,Headphones,Audio,South,Marketplace,4,95,0.1,342.0,218.07,123.93
+ORD000544,2024-06-27,Webcam,Accessories,South,Mobile App,4,75,0.1,270.0,176.99,93.01
+ORD000545,2024-06-28,Webcam,Accessories,North,Marketplace,7,75,0.1,472.5,311.64,160.86
+ORD000546,2024-06-29,Keyboard,Accessories,West,Mobile App,3,65,0.0,195.0,148.4,46.6
+ORD000547,2024-06-30,Monitor,Computers,East,Website,4,220,0.0,880.0,554.51,325.49
+ORD000548,2024-07-01,Mouse,Accessories,West,Mobile App,2,35,0.05,66.5,38.91,27.59
+ORD000549,2024-07-02,Mouse,Accessories,South,Mobile App,2,35,0.0,70.0,39.85,30.15
+ORD000550,2024-07-03,Laptop,Computers,West,Marketplace,3,850,0.0,2550.0,1600.3,949.7
+ORD000551,2024-07-04,Mouse,Accessories,North,Mobile App,4,35,0.0,140.0,95.43,44.57
+ORD000552,2024-07-05,Headphones,Audio,East,Website,5,95,0.05,451.25,308.64,142.61
+ORD000553,2024-07-06,Laptop,Computers,North,Website,7,850,0.15,5057.5,3628.33,1429.17
+ORD000554,2024-07-07,Laptop,Computers,East,Website,4,850,0.1,3060.0,2147.08,912.92
+ORD000555,2024-07-08,Monitor,Computers,East,Marketplace,8,220,0.05,1672.0,951.66,720.34
+ORD000556,2024-07-09,Keyboard,Accessories,West,Mobile App,3,65,0.1,175.5,112.26,63.24
+ORD000557,2024-07-10,Office Chair,Furniture,West,Mobile App,4,180,0.05,684.0,434.47,249.53
+ORD000558,2024-07-11,Laptop,Computers,East,Website,8,850,0.0,6800.0,3916.53,2883.47
+ORD000559,2024-07-12,Monitor,Computers,South,Marketplace,3,220,0.1,594.0,407.1,186.9
+ORD000560,2024-07-13,Monitor,Computers,North,Marketplace,9,220,0.1,1782.0,1297.59,484.41
+ORD000561,2024-07-14,Mouse,Accessories,West,Website,11,35,0.1,346.5,193.99,152.51
+ORD000562,2024-07-15,Laptop,Computers,North,Mobile App,4,850,0.15,2890.0,1941.77,948.23
+ORD000563,2024-07-16,Mouse,Accessories,North,Marketplace,1,35,0.1,31.5,18.19,13.31
+ORD000564,2024-07-17,Monitor,Computers,North,Website,6,220,0.15,1122.0,817.45,304.55
+ORD000565,2024-07-18,Monitor,Computers,West,Website,2,220,0.0,440.0,298.52,141.48
+ORD000566,2024-07-19,SSD,Storage,North,Marketplace,4,110,0.2,352.0,198.94,153.06
+ORD000567,2024-07-20,Monitor,Computers,South,Mobile App,5,220,0.1,990.0,661.95,328.05
+ORD000568,2024-07-21,Headphones,Audio,North,Website,4,95,0.1,342.0,207.05,134.95
+ORD000569,2024-07-22,Keyboard,Accessories,West,Marketplace,5,65,0.1,292.5,174.82,117.68
+ORD000570,2024-07-23,Keyboard,Accessories,South,Website,3,65,0.0,195.0,137.17,57.83
+ORD000571,2024-07-24,SSD,Storage,East,Mobile App,3,110,0.05,313.5,201.59,111.91
+ORD000572,2024-07-25,Monitor,Computers,East,Website,3,220,0.15,561.0,428.32,132.68
+ORD000573,2024-07-26,Office Chair,Furniture,East,Mobile App,8,180,0.1,1296.0,985.99,310.01
+ORD000574,2024-07-27,SSD,Storage,West,Marketplace,7,110,0.2,616.0,459.69,156.31
+ORD000575,2024-07-28,Headphones,Audio,West,Marketplace,6,95,0.0,570.0,367.29,202.71
+ORD000576,2024-07-29,Laptop,Computers,South,Marketplace,1,850,0.1,765.0,579.94,185.06
+ORD000577,2024-07-30,Headphones,Audio,North,Marketplace,5,95,0.1,427.5,242.21,185.29
+ORD000578,2024-07-31,Headphones,Audio,North,Website,6,95,0.0,570.0,415.2,154.8
+ORD000579,2024-08-01,Webcam,Accessories,North,Website,3,75,0.1,202.5,128.09,74.41
+ORD000580,2024-08-02,Monitor,Computers,West,Website,5,220,0.05,1045.0,782.82,262.18
+ORD000581,2024-08-03,Office Chair,Furniture,South,Website,3,180,0.05,513.0,285.65,227.35
+ORD000582,2024-08-04,SSD,Storage,West,Website,6,110,0.0,660.0,450.32,209.68
+ORD000583,2024-08-05,Laptop,Computers,East,Marketplace,3,850,0.1,2295.0,1298.99,996.01
+ORD000584,2024-08-06,Keyboard,Accessories,West,Marketplace,4,65,0.1,234.0,144.56,89.44
+ORD000585,2024-08-07,Laptop,Computers,East,Marketplace,4,850,0.15,2890.0,1964.86,925.14
+ORD000586,2024-08-08,SSD,Storage,North,Marketplace,3,110,0.15,280.5,163.24,117.26
+ORD000587,2024-08-09,Office Chair,Furniture,West,Mobile App,3,180,0.2,432.0,306.58,125.42
+ORD000588,2024-08-10,Office Chair,Furniture,East,Mobile App,3,180,0.2,432.0,288.55,143.45
+ORD000589,2024-08-11,Headphones,Audio,North,Website,3,95,0.1,256.5,154.27,102.23
+ORD000590,2024-08-12,Headphones,Audio,East,Marketplace,7,95,0.0,665.0,448.02,216.98
+ORD000591,2024-08-13,Headphones,Audio,North,Mobile App,5,95,0.05,451.25,294.46,156.79
+ORD000592,2024-08-14,Headphones,Audio,East,Website,3,95,0.0,285.0,158.96,126.04
+ORD000593,2024-08-15,Office Chair,Furniture,West,Marketplace,3,180,0.1,486.0,346.61,139.39
+ORD000594,2024-08-16,Headphones,Audio,North,Marketplace,3,95,0.05,270.75,193.41,77.34
+ORD000595,2024-08-17,Keyboard,Accessories,East,Marketplace,3,65,0.05,185.25,140.67,44.58
+ORD000596,2024-08-18,Mouse,Accessories,West,Marketplace,5,35,0.1,157.5,120.73,36.77
+ORD000597,2024-08-19,Laptop,Computers,West,Marketplace,3,850,0.0,2550.0,1619.71,930.29
+ORD000598,2024-08-20,Webcam,Accessories,East,Website,1,75,0.15,63.75,44.49,19.26
+ORD000599,2024-08-21,Webcam,Accessories,North,Mobile App,4,75,0.0,300.0,206.94,93.06
+ORD000600,2024-08-22,Mouse,Accessories,North,Marketplace,3,35,0.05,99.75,56.06,43.69
+ORD000601,2024-08-23,SSD,Storage,North,Website,1,110,0.0,110.0,78.81,31.19
+ORD000602,2024-08-24,Webcam,Accessories,South,Marketplace,4,75,0.0,300.0,183.81,116.19
+ORD000603,2024-08-25,Keyboard,Accessories,East,Marketplace,4,65,0.05,247.0,159.99,87.01
+ORD000604,2024-08-26,Laptop,Computers,East,Mobile App,4,850,0.0,3400.0,2355.36,1044.64
+ORD000605,2024-08-27,Laptop,Computers,East,Marketplace,3,850,0.0,2550.0,1698.36,851.64
+ORD000606,2024-08-28,Monitor,Computers,North,Marketplace,5,220,0.15,935.0,574.45,360.55
+ORD000607,2024-08-29,Keyboard,Accessories,South,Website,4,65,0.0,260.0,195.21,64.79
+ORD000608,2024-08-30,Mouse,Accessories,West,Website,3,35,0.15,89.25,51.01,38.24
+ORD000609,2024-08-31,Office Chair,Furniture,West,Website,2,180,0.1,324.0,223.12,100.88
+ORD000610,2024-09-01,Monitor,Computers,North,Marketplace,10,220,0.05,2090.0,1238.37,851.63
+ORD000611,2024-09-02,SSD,Storage,North,Mobile App,3,110,0.0,330.0,251.69,78.31
+ORD000612,2024-09-03,Headphones,Audio,South,Marketplace,4,95,0.15,323.0,247.22,75.78
+ORD000613,2024-09-04,SSD,Storage,South,Website,2,110,0.0,220.0,157.11,62.89
+ORD000614,2024-09-05,Keyboard,Accessories,South,Website,3,65,0.1,175.5,132.21,43.29
+ORD000615,2024-09-06,Laptop,Computers,South,Mobile App,3,850,0.05,2422.5,1759.38,663.12
+ORD000616,2024-09-07,Webcam,Accessories,North,Website,2,75,0.05,142.5,99.81,42.69
+ORD000617,2024-09-08,Monitor,Computers,North,Marketplace,4,220,0.0,880.0,635.3,244.7
+ORD000618,2024-09-09,Laptop,Computers,West,Mobile App,7,850,0.05,5652.5,4292.93,1359.57
+ORD000619,2024-09-10,SSD,Storage,East,Mobile App,5,110,0.0,550.0,329.93,220.07
+ORD000620,2024-09-11,Headphones,Audio,South,Marketplace,4,95,0.1,342.0,245.47,96.53
+ORD000621,2024-09-12,Monitor,Computers,South,Mobile App,5,220,0.1,990.0,585.34,404.66
+ORD000622,2024-09-13,Monitor,Computers,West,Website,4,220,0.0,880.0,577.29,302.71
+ORD000623,2024-09-14,Office Chair,Furniture,South,Mobile App,8,180,0.05,1368.0,859.33,508.67
+ORD000624,2024-09-15,Monitor,Computers,West,Marketplace,5,220,0.0,1100.0,765.36,334.64
+ORD000625,2024-09-16,Webcam,Accessories,West,Website,4,75,0.1,270.0,188.18,81.82
+ORD000626,2024-09-17,Laptop,Computers,South,Mobile App,3,850,0.0,2550.0,1931.73,618.27
+ORD000627,2024-09-18,SSD,Storage,East,Website,5,110,0.0,550.0,408.73,141.27
+ORD000628,2024-09-19,Laptop,Computers,North,Mobile App,4,850,0.0,3400.0,1920.94,1479.06
+ORD000629,2024-09-20,Mouse,Accessories,South,Website,2,35,0.2,56.0,33.03,22.97
+ORD000630,2024-09-21,Laptop,Computers,East,Marketplace,3,850,0.15,2167.5,1214.43,953.07
+ORD000631,2024-09-22,Mouse,Accessories,West,Website,4,35,0.05,133.0,94.88,38.12
+ORD000632,2024-09-23,SSD,Storage,North,Marketplace,4,110,0.1,396.0,249.34,146.66
+ORD000633,2024-09-24,Laptop,Computers,East,Website,5,850,0.05,4037.5,3126.07,911.43
+ORD000634,2024-09-25,Monitor,Computers,West,Mobile App,3,220,0.0,660.0,395.53,264.47
+ORD000635,2024-09-26,Webcam,Accessories,South,Website,4,75,0.15,255.0,196.35,58.65
+ORD000636,2024-09-27,Headphones,Audio,North,Marketplace,6,95,0.0,570.0,412.68,157.32
+ORD000637,2024-09-28,Keyboard,Accessories,East,Mobile App,8,65,0.1,468.0,339.44,128.56
+ORD000638,2024-09-29,Headphones,Audio,East,Website,3,95,0.2,228.0,157.26,70.74
+ORD000639,2024-09-30,Mouse,Accessories,South,Marketplace,4,35,0.0,140.0,105.49,34.51
+ORD000640,2024-10-01,SSD,Storage,North,Website,3,110,0.15,280.5,169.39,111.11
+ORD000641,2024-10-02,Keyboard,Accessories,East,Marketplace,5,65,0.1,292.5,219.33,73.17
+ORD000642,2024-10-03,Webcam,Accessories,South,Mobile App,3,75,0.0,225.0,169.33,55.67
+ORD000643,2024-10-04,Headphones,Audio,East,Website,5,95,0.05,451.25,311.13,140.12
+ORD000644,2024-10-05,Webcam,Accessories,North,Mobile App,2,75,0.0,150.0,105.32,44.68
+ORD000645,2024-10-06,Keyboard,Accessories,East,Website,2,65,0.05,123.5,74.42,49.08
+ORD000646,2024-10-07,Webcam,Accessories,West,Website,3,75,0.05,213.75,141.72,72.03
+ORD000647,2024-10-08,Webcam,Accessories,North,Mobile App,4,75,0.05,285.0,195.22,89.78
+ORD000648,2024-10-09,Keyboard,Accessories,East,Website,1,65,0.0,65.0,40.48,24.52
+ORD000649,2024-10-10,Laptop,Computers,East,Website,4,850,0.0,3400.0,1903.05,1496.95
+ORD000650,2024-10-11,Office Chair,Furniture,East,Website,2,180,0.0,360.0,276.63,83.37
+ORD000651,2024-10-12,Webcam,Accessories,East,Mobile App,5,75,0.1,337.5,248.19,89.31
+ORD000652,2024-10-13,Monitor,Computers,North,Mobile App,4,220,0.1,792.0,502.12,289.88
+ORD000653,2024-10-14,Webcam,Accessories,South,Website,3,75,0.1,202.5,136.16,66.34
+ORD000654,2024-10-15,Monitor,Computers,South,Website,5,220,0.1,990.0,679.09,310.91
+ORD000655,2024-10-16,Mouse,Accessories,South,Marketplace,3,35,0.15,89.25,68.75,20.5
+ORD000656,2024-10-17,SSD,Storage,West,Mobile App,6,110,0.1,594.0,402.99,191.01
+ORD000657,2024-10-18,Mouse,Accessories,North,Website,2,35,0.05,66.5,47.64,18.86
+ORD000658,2024-10-19,Keyboard,Accessories,East,Marketplace,3,65,0.0,195.0,143.27,51.73
+ORD000659,2024-10-20,Keyboard,Accessories,East,Mobile App,6,65,0.1,351.0,201.16,149.84
+ORD000660,2024-10-21,Laptop,Computers,West,Website,4,850,0.1,3060.0,2092.5,967.5
+ORD000661,2024-10-22,Monitor,Computers,South,Website,9,220,0.0,1980.0,1512.5,467.5
+ORD000662,2024-10-23,Monitor,Computers,East,Mobile App,8,220,0.05,1672.0,1236.47,435.53
+ORD000663,2024-10-24,Monitor,Computers,East,Website,1,220,0.15,187.0,142.5,44.5
+ORD000664,2024-10-25,Laptop,Computers,North,Website,3,850,0.1,2295.0,1347.92,947.08
+ORD000665,2024-10-26,Mouse,Accessories,North,Mobile App,2,35,0.05,66.5,48.47,18.03
+ORD000666,2024-10-27,Monitor,Computers,West,Website,7,220,0.15,1309.0,803.95,505.05
+ORD000667,2024-10-28,Webcam,Accessories,West,Marketplace,3,75,0.05,213.75,160.62,53.13
+ORD000668,2024-10-29,Office Chair,Furniture,South,Website,3,180,0.0,540.0,394.41,145.59
+ORD000669,2024-10-30,Monitor,Computers,South,Marketplace,3,220,0.0,660.0,419.93,240.07
+ORD000670,2024-10-31,Headphones,Audio,North,Website,3,95,0.2,228.0,155.78,72.22
+ORD000671,2024-11-01,Mouse,Accessories,North,Marketplace,2,35,0.0,70.0,46.06,23.94
+ORD000672,2024-11-02,Laptop,Computers,East,Website,3,850,0.1,2295.0,1759.15,535.85
+ORD000673,2024-11-03,Laptop,Computers,East,Mobile App,6,850,0.0,5100.0,3454.68,1645.32
+ORD000674,2024-11-04,SSD,Storage,North,Marketplace,5,110,0.05,522.5,296.69,225.81
+ORD000675,2024-11-05,Mouse,Accessories,West,Mobile App,3,35,0.0,105.0,70.68,34.32
+ORD000676,2024-11-06,SSD,Storage,West,Website,6,110,0.05,627.0,347.62,279.38
+ORD000677,2024-11-07,Laptop,Computers,North,Marketplace,7,850,0.0,5950.0,3458.67,2491.33
+ORD000678,2024-11-08,Headphones,Audio,East,Website,4,95,0.05,361.0,239.31,121.69
+ORD000679,2024-11-09,SSD,Storage,East,Marketplace,5,110,0.1,495.0,324.79,170.21
+ORD000680,2024-11-10,SSD,Storage,South,Marketplace,2,110,0.05,209.0,118.27,90.73
+ORD000681,2024-11-11,Laptop,Computers,East,Website,2,850,0.0,1700.0,1068.14,631.86
+ORD000682,2024-11-12,Mouse,Accessories,East,Marketplace,2,35,0.15,59.5,36.65,22.85
+ORD000683,2024-11-13,Keyboard,Accessories,South,Mobile App,4,65,0.15,221.0,136.12,84.88
+ORD000684,2024-11-14,Webcam,Accessories,South,Website,5,75,0.05,356.25,232.24,124.01
+ORD000685,2024-11-15,Laptop,Computers,South,Website,4,850,0.05,3230.0,1802.17,1427.83
+ORD000686,2024-11-16,Monitor,Computers,North,Mobile App,4,220,0.0,880.0,490.6,389.4
+ORD000687,2024-11-17,SSD,Storage,South,Website,8,110,0.0,880.0,531.57,348.43
+ORD000688,2024-11-18,Mouse,Accessories,North,Website,2,35,0.05,66.5,47.53,18.97
+ORD000689,2024-11-19,Mouse,Accessories,South,Marketplace,2,35,0.0,70.0,53.58,16.42
+ORD000690,2024-11-20,Office Chair,Furniture,South,Website,5,180,0.2,720.0,521.07,198.93
+ORD000691,2024-11-21,Keyboard,Accessories,West,Mobile App,6,65,0.1,351.0,199.25,151.75
+ORD000692,2024-11-22,Laptop,Computers,North,Marketplace,4,850,0.05,3230.0,2389.33,840.67
+ORD000693,2024-11-23,Keyboard,Accessories,South,Marketplace,2,65,0.1,117.0,86.41,30.59
+ORD000694,2024-11-24,Laptop,Computers,North,Website,2,850,0.0,1700.0,1265.05,434.95
+ORD000695,2024-11-25,Laptop,Computers,West,Mobile App,8,850,0.15,5780.0,4145.84,1634.16
+ORD000696,2024-11-26,Mouse,Accessories,South,Mobile App,6,35,0.05,199.5,121.7,77.8
+ORD000697,2024-11-27,Office Chair,Furniture,South,Website,2,180,0.1,324.0,215.09,108.91
+ORD000698,2024-11-28,Headphones,Audio,East,Marketplace,4,95,0.0,380.0,247.46,132.54
+ORD000699,2024-11-29,Headphones,Audio,West,Mobile App,2,95,0.05,180.5,100.72,79.78
+ORD000700,2024-11-30,Keyboard,Accessories,East,Marketplace,1,65,0.1,58.5,39.45,19.05
+ORD000701,2024-12-01,Headphones,Audio,West,Mobile App,4,95,0.05,361.0,220.54,140.46
+ORD000702,2024-12-02,Webcam,Accessories,North,Website,2,75,0.0,150.0,115.36,34.64
+ORD000703,2024-12-03,Headphones,Audio,East,Marketplace,5,95,0.05,451.25,317.36,133.89
+ORD000704,2024-12-04,SSD,Storage,West,Marketplace,4,110,0.15,374.0,275.36,98.64
+ORD000705,2024-12-05,Mouse,Accessories,South,Website,4,35,0.05,133.0,74.14,58.86
+ORD000706,2024-12-06,Monitor,Computers,West,Marketplace,4,220,0.2,704.0,502.49,201.51
+ORD000707,2024-12-07,Headphones,Audio,West,Website,6,95,0.1,513.0,376.9,136.1
+ORD000708,2024-12-08,Mouse,Accessories,East,Marketplace,1,35,0.15,29.75,19.52,10.23
+ORD000709,2024-12-09,Monitor,Computers,West,Marketplace,4,220,0.0,880.0,535.09,344.91
+ORD000710,2024-12-10,Headphones,Audio,East,Marketplace,8,95,0.1,684.0,452.79,231.21
+ORD000711,2024-12-11,SSD,Storage,South,Website,5,110,0.05,522.5,353.48,169.02
+ORD000712,2024-12-12,Laptop,Computers,South,Website,4,850,0.05,3230.0,2098.81,1131.19
+ORD000713,2024-12-13,Mouse,Accessories,South,Mobile App,8,35,0.15,238.0,148.32,89.68
+ORD000714,2024-12-14,Webcam,Accessories,West,Marketplace,6,75,0.0,450.0,316.71,133.29
+ORD000715,2024-12-15,Keyboard,Accessories,West,Website,5,65,0.05,308.75,233.13,75.62
+ORD000716,2024-12-16,Monitor,Computers,East,Website,5,220,0.05,1045.0,639.26,405.74
+ORD000717,2024-12-17,Keyboard,Accessories,West,Website,5,65,0.2,260.0,195.77,64.23
+ORD000718,2024-12-18,Mouse,Accessories,North,Website,5,35,0.1,157.5,88.61,68.89
+ORD000719,2024-12-19,Headphones,Audio,South,Mobile App,4,95,0.0,380.0,269.13,110.87
+ORD000720,2024-12-20,Mouse,Accessories,East,Website,4,35,0.0,140.0,88.09,51.91
+ORD000721,2024-12-21,Laptop,Computers,North,Mobile App,8,850,0.0,6800.0,4560.76,2239.24
+ORD000722,2024-12-22,SSD,Storage,East,Marketplace,4,110,0.0,440.0,277.89,162.11
+ORD000723,2024-12-23,Office Chair,Furniture,South,Marketplace,5,180,0.15,765.0,434.91,330.09
+ORD000724,2024-12-24,Laptop,Computers,East,Marketplace,7,850,0.15,5057.5,2974.85,2082.65
+ORD000725,2024-12-25,Monitor,Computers,South,Marketplace,5,220,0.1,990.0,769.22,220.78
+ORD000726,2024-12-26,Monitor,Computers,South,Website,4,220,0.05,836.0,539.79,296.21
+ORD000727,2024-12-27,SSD,Storage,South,Website,4,110,0.05,418.0,321.26,96.74
+ORD000728,2024-12-28,Office Chair,Furniture,West,Website,4,180,0.1,648.0,433.85,214.15
+ORD000729,2024-12-29,Laptop,Computers,West,Website,4,850,0.15,2890.0,2187.0,703.0
+ORD000730,2024-12-30,Keyboard,Accessories,East,Mobile App,11,65,0.0,715.0,466.41,248.59
+ORD000731,2024-12-31,Monitor,Computers,South,Mobile App,3,220,0.0,660.0,513.48,146.52
+ORD000732,2025-01-01,Mouse,Accessories,East,Marketplace,2,35,0.1,63.0,41.57,21.43
+ORD000733,2025-01-02,Office Chair,Furniture,North,Website,3,180,0.0,540.0,329.12,210.88
+ORD000734,2025-01-03,Laptop,Computers,North,Marketplace,5,850,0.15,3612.5,2132.98,1479.52
+ORD000735,2025-01-04,Monitor,Computers,East,Marketplace,7,220,0.0,1540.0,872.46,667.54
+ORD000736,2025-01-05,Mouse,Accessories,North,Website,3,35,0.2,84.0,48.32,35.68
+ORD000737,2025-01-06,Mouse,Accessories,West,Website,1,35,0.0,35.0,24.74,10.26
+ORD000738,2025-01-07,Webcam,Accessories,West,Marketplace,2,75,0.0,150.0,95.02,54.98
+ORD000739,2025-01-08,Mouse,Accessories,North,Website,6,35,0.05,199.5,149.82,49.68
+ORD000740,2025-01-09,Laptop,Computers,South,Website,2,850,0.1,1530.0,911.13,618.87
+ORD000741,2025-01-10,Keyboard,Accessories,East,Website,5,65,0.2,260.0,198.85,61.15
+ORD000742,2025-01-11,Office Chair,Furniture,East,Website,3,180,0.05,513.0,304.59,208.41
+ORD000743,2025-01-12,Webcam,Accessories,West,Marketplace,8,75,0.15,510.0,312.17,197.83
+ORD000744,2025-01-13,Laptop,Computers,North,Website,6,850,0.15,4335.0,2723.1,1611.9
+ORD000745,2025-01-14,SSD,Storage,East,Mobile App,5,110,0.2,440.0,268.59,171.41
+ORD000746,2025-01-15,Keyboard,Accessories,East,Mobile App,2,65,0.05,123.5,79.71,43.79
+ORD000747,2025-01-16,Webcam,Accessories,North,Marketplace,4,75,0.05,285.0,209.37,75.63
+ORD000748,2025-01-17,Laptop,Computers,East,Marketplace,1,850,0.0,850.0,481.43,368.57
+ORD000749,2025-01-18,SSD,Storage,South,Marketplace,4,110,0.05,418.0,253.36,164.64
+ORD000750,2025-01-19,Monitor,Computers,West,Website,2,220,0.05,418.0,235.01,182.99
+ORD000751,2025-01-20,Mouse,Accessories,East,Mobile App,1,35,0.0,35.0,25.49,9.51
+ORD000752,2025-01-21,Headphones,Audio,West,Website,5,95,0.15,403.75,233.18,170.57
+ORD000753,2025-01-22,Mouse,Accessories,North,Marketplace,6,35,0.0,210.0,140.11,69.89
+ORD000754,2025-01-23,Monitor,Computers,South,Marketplace,2,220,0.0,440.0,329.87,110.13
+ORD000755,2025-01-24,Laptop,Computers,East,Website,2,850,0.0,1700.0,1058.53,641.47
+ORD000756,2025-01-25,Keyboard,Accessories,South,Website,4,65,0.0,260.0,149.92,110.08
+ORD000757,2025-01-26,Laptop,Computers,South,Marketplace,4,850,0.1,3060.0,1870.53,1189.47
+ORD000758,2025-01-27,Monitor,Computers,North,Mobile App,4,220,0.05,836.0,640.48,195.52
+ORD000759,2025-01-28,Laptop,Computers,East,Website,5,850,0.05,4037.5,2308.89,1728.61
+ORD000760,2025-01-29,Mouse,Accessories,South,Marketplace,6,35,0.05,199.5,149.37,50.13
+ORD000761,2025-01-30,Keyboard,Accessories,East,Marketplace,4,65,0.2,208.0,120.17,87.83
+ORD000762,2025-01-31,Headphones,Audio,South,Marketplace,6,95,0.05,541.5,318.18,223.32
+ORD000763,2025-02-01,Keyboard,Accessories,East,Website,9,65,0.05,555.75,404.36,151.39
+ORD000764,2025-02-02,Laptop,Computers,West,Marketplace,2,850,0.1,1530.0,1066.55,463.45
+ORD000765,2025-02-03,Keyboard,Accessories,West,Marketplace,5,65,0.15,276.25,172.32,103.93
+ORD000766,2025-02-04,Webcam,Accessories,East,Mobile App,4,75,0.15,255.0,181.43,73.57
+ORD000767,2025-02-05,Monitor,Computers,East,Marketplace,2,220,0.15,374.0,218.43,155.57
+ORD000768,2025-02-06,Keyboard,Accessories,East,Marketplace,4,65,0.0,260.0,195.7,64.3
+ORD000769,2025-02-07,Webcam,Accessories,South,Website,5,75,0.15,318.75,217.52,101.23
+ORD000770,2025-02-08,Keyboard,Accessories,East,Website,4,65,0.15,221.0,169.64,51.36
+ORD000771,2025-02-09,SSD,Storage,North,Mobile App,1,110,0.05,104.5,71.8,32.7
+ORD000772,2025-02-10,Office Chair,Furniture,North,Website,10,180,0.15,1530.0,1042.74,487.26
+ORD000773,2025-02-11,Keyboard,Accessories,North,Website,4,65,0.2,208.0,155.44,52.56
+ORD000774,2025-02-12,Webcam,Accessories,North,Mobile App,3,75,0.1,202.5,138.52,63.98
+ORD000775,2025-02-13,Monitor,Computers,North,Website,4,220,0.1,792.0,451.4,340.6
+ORD000776,2025-02-14,Laptop,Computers,East,Marketplace,3,850,0.15,2167.5,1497.14,670.36
+ORD000777,2025-02-15,Mouse,Accessories,West,Website,5,35,0.15,148.75,91.86,56.89
+ORD000778,2025-02-16,Headphones,Audio,North,Marketplace,4,95,0.1,342.0,238.28,103.72
+ORD000779,2025-02-17,Office Chair,Furniture,East,Mobile App,6,180,0.0,1080.0,841.92,238.08
+ORD000780,2025-02-18,Laptop,Computers,North,Mobile App,1,850,0.0,850.0,586.76,263.24
+ORD000781,2025-02-19,Webcam,Accessories,West,Marketplace,8,75,0.0,600.0,445.06,154.94
+ORD000782,2025-02-20,Mouse,Accessories,West,Marketplace,5,35,0.05,166.25,104.98,61.27
+ORD000783,2025-02-21,Laptop,Computers,West,Marketplace,5,850,0.0,4250.0,2348.94,1901.06
+ORD000784,2025-02-22,Office Chair,Furniture,East,Website,6,180,0.1,972.0,545.06,426.94
+ORD000785,2025-02-23,Webcam,Accessories,East,Website,4,75,0.15,255.0,141.32,113.68
+ORD000786,2025-02-24,Laptop,Computers,North,Marketplace,3,850,0.2,2040.0,1224.23,815.77
+ORD000787,2025-02-25,Office Chair,Furniture,North,Website,3,180,0.0,540.0,330.62,209.38
+ORD000788,2025-02-26,Laptop,Computers,North,Mobile App,3,850,0.1,2295.0,1431.95,863.05
+ORD000789,2025-02-27,Laptop,Computers,West,Website,8,850,0.0,6800.0,4763.41,2036.59
+ORD000790,2025-02-28,Keyboard,Accessories,West,Marketplace,6,65,0.15,331.5,239.42,92.08
+ORD000791,2025-03-01,Office Chair,Furniture,South,Website,6,180,0.0,1080.0,784.96,295.04
+ORD000792,2025-03-02,Laptop,Computers,South,Marketplace,5,850,0.0,4250.0,3072.55,1177.45
+ORD000793,2025-03-03,Office Chair,Furniture,North,Marketplace,4,180,0.05,684.0,510.7,173.3
+ORD000794,2025-03-04,Headphones,Audio,South,Website,4,95,0.0,380.0,272.03,107.97
+ORD000795,2025-03-05,Laptop,Computers,North,Mobile App,6,850,0.1,4590.0,3009.11,1580.89
+ORD000796,2025-03-06,Mouse,Accessories,East,Marketplace,5,35,0.0,175.0,112.88,62.12
+ORD000797,2025-03-07,Mouse,Accessories,North,Marketplace,4,35,0.1,126.0,71.66,54.34
+ORD000798,2025-03-08,Mouse,Accessories,East,Marketplace,8,35,0.15,238.0,131.63,106.37
+ORD000799,2025-03-09,Webcam,Accessories,West,Website,5,75,0.05,356.25,266.16,90.09
+ORD000800,2025-03-10,Headphones,Audio,West,Mobile App,4,95,0.05,361.0,210.89,150.11
+ORD000801,2025-03-11,Office Chair,Furniture,East,Website,5,180,0.2,720.0,539.13,180.87
+ORD000802,2025-03-12,Laptop,Computers,North,Website,7,850,0.05,5652.5,3628.18,2024.32
+ORD000803,2025-03-13,SSD,Storage,East,Marketplace,5,110,0.15,467.5,263.57,203.93
+ORD000804,2025-03-14,Keyboard,Accessories,West,Mobile App,5,65,0.1,292.5,216.65,75.85
+ORD000805,2025-03-15,Webcam,Accessories,West,Mobile App,5,75,0.0,375.0,267.87,107.13
+ORD000806,2025-03-16,SSD,Storage,South,Marketplace,5,110,0.0,550.0,428.7,121.3
+ORD000807,2025-03-17,Office Chair,Furniture,East,Website,4,180,0.1,648.0,437.15,210.85
+ORD000808,2025-03-18,Monitor,Computers,North,Marketplace,8,220,0.0,1760.0,1344.5,415.5
+ORD000809,2025-03-19,Mouse,Accessories,North,Marketplace,8,35,0.15,238.0,158.62,79.38
+ORD000810,2025-03-20,Office Chair,Furniture,South,Mobile App,7,180,0.15,1071.0,653.47,417.53
+ORD000811,2025-03-21,Office Chair,Furniture,South,Mobile App,4,180,0.1,648.0,416.18,231.82
+ORD000812,2025-03-22,Keyboard,Accessories,North,Marketplace,8,65,0.15,442.0,310.19,131.81
+ORD000813,2025-03-23,Office Chair,Furniture,West,Mobile App,3,180,0.1,486.0,366.76,119.24
+ORD000814,2025-03-24,Keyboard,Accessories,North,Marketplace,4,65,0.15,221.0,163.03,57.97
+ORD000815,2025-03-25,Keyboard,Accessories,North,Mobile App,7,65,0.05,432.25,330.26,101.99
+ORD000816,2025-03-26,Webcam,Accessories,North,Marketplace,7,75,0.05,498.75,335.92,162.83
+ORD000817,2025-03-27,Mouse,Accessories,East,Website,3,35,0.1,94.5,61.99,32.51
+ORD000818,2025-03-28,Mouse,Accessories,East,Marketplace,5,35,0.05,166.25,111.53,54.72
+ORD000819,2025-03-29,Keyboard,Accessories,West,Marketplace,3,65,0.05,185.25,141.65,43.6
+ORD000820,2025-03-30,Mouse,Accessories,East,Website,4,35,0.0,140.0,88.79,51.21
+ORD000821,2025-03-31,Laptop,Computers,North,Website,7,850,0.05,5652.5,3187.32,2465.18
+ORD000822,2025-04-01,Laptop,Computers,North,Website,3,850,0.05,2422.5,1550.76,871.74
+ORD000823,2025-04-02,Webcam,Accessories,East,Marketplace,3,75,0.1,202.5,141.64,60.86
+ORD000824,2025-04-03,Mouse,Accessories,South,Website,9,35,0.1,283.5,210.23,73.27
+ORD000825,2025-04-04,Headphones,Audio,East,Website,3,95,0.1,256.5,196.71,59.79
+ORD000826,2025-04-05,SSD,Storage,West,Mobile App,4,110,0.15,374.0,264.84,109.16
+ORD000827,2025-04-06,Monitor,Computers,North,Mobile App,5,220,0.05,1045.0,770.23,274.77
+ORD000828,2025-04-07,Monitor,Computers,South,Mobile App,9,220,0.05,1881.0,1386.02,494.98
+ORD000829,2025-04-08,Monitor,Computers,South,Mobile App,3,220,0.15,561.0,412.91,148.09
+ORD000830,2025-04-09,Keyboard,Accessories,South,Marketplace,3,65,0.0,195.0,134.13,60.87
+ORD000831,2025-04-10,Webcam,Accessories,West,Marketplace,3,75,0.1,202.5,155.38,47.12
+ORD000832,2025-04-11,Keyboard,Accessories,West,Marketplace,7,65,0.05,432.25,326.37,105.88
+ORD000833,2025-04-12,Keyboard,Accessories,North,Marketplace,1,65,0.1,58.5,32.28,26.22
+ORD000834,2025-04-13,Headphones,Audio,East,Website,5,95,0.1,427.5,247.06,180.44
+ORD000835,2025-04-14,Monitor,Computers,North,Website,1,220,0.1,198.0,154.09,43.91
+ORD000836,2025-04-15,Laptop,Computers,East,Marketplace,8,850,0.0,6800.0,4782.2,2017.8
+ORD000837,2025-04-16,Webcam,Accessories,East,Marketplace,3,75,0.0,225.0,131.0,94.0
+ORD000838,2025-04-17,Webcam,Accessories,East,Mobile App,4,75,0.2,240.0,182.28,57.72
+ORD000839,2025-04-18,Keyboard,Accessories,North,Website,4,65,0.15,221.0,126.09,94.91
+ORD000840,2025-04-19,Headphones,Audio,North,Website,4,95,0.05,361.0,243.2,117.8
+ORD000841,2025-04-20,Laptop,Computers,West,Website,4,850,0.1,3060.0,1955.79,1104.21
+ORD000842,2025-04-21,Keyboard,Accessories,South,Website,1,65,0.0,65.0,40.06,24.94
+ORD000843,2025-04-22,Headphones,Audio,East,Website,3,95,0.05,270.75,163.81,106.94
+ORD000844,2025-04-23,Monitor,Computers,West,Marketplace,4,220,0.1,792.0,451.4,340.6
+ORD000845,2025-04-24,Keyboard,Accessories,North,Mobile App,8,65,0.1,468.0,298.0,170.0
+ORD000846,2025-04-25,Headphones,Audio,East,Website,5,95,0.0,475.0,272.2,202.8
+ORD000847,2025-04-26,Headphones,Audio,West,Website,4,95,0.0,380.0,263.55,116.45
+ORD000848,2025-04-27,Laptop,Computers,West,Marketplace,5,850,0.2,3400.0,2121.42,1278.58
+ORD000849,2025-04-28,Webcam,Accessories,West,Website,7,75,0.15,446.25,324.15,122.1
+ORD000850,2025-04-29,Laptop,Computers,South,Website,5,850,0.0,4250.0,3253.93,996.07
+ORD000851,2025-04-30,Office Chair,Furniture,East,Mobile App,8,180,0.15,1224.0,922.9,301.1
+ORD000852,2025-05-01,Monitor,Computers,South,Website,4,220,0.15,748.0,538.63,209.37
+ORD000853,2025-05-02,Monitor,Computers,North,Website,5,220,0.0,1100.0,802.46,297.54
+ORD000854,2025-05-03,Monitor,Computers,North,Marketplace,3,220,0.15,561.0,320.43,240.57
+ORD000855,2025-05-04,Office Chair,Furniture,East,Marketplace,4,180,0.05,684.0,529.16,154.84
+ORD000856,2025-05-05,Keyboard,Accessories,North,Mobile App,3,65,0.05,185.25,126.44,58.81
+ORD000857,2025-05-06,Headphones,Audio,South,Marketplace,4,95,0.0,380.0,256.47,123.53
+ORD000858,2025-05-07,Office Chair,Furniture,North,Website,5,180,0.1,810.0,571.08,238.92
+ORD000859,2025-05-08,Office Chair,Furniture,West,Website,4,180,0.1,648.0,384.33,263.67
+ORD000860,2025-05-09,Laptop,Computers,North,Marketplace,3,850,0.05,2422.5,1594.23,828.27
+ORD000861,2025-05-10,Mouse,Accessories,East,Marketplace,8,35,0.0,280.0,161.85,118.15
+ORD000862,2025-05-11,Headphones,Audio,North,Website,3,95,0.1,256.5,195.28,61.22
+ORD000863,2025-05-12,Webcam,Accessories,South,Website,3,75,0.05,213.75,142.13,71.62
+ORD000864,2025-05-13,Keyboard,Accessories,South,Website,1,65,0.0,65.0,37.73,27.27
+ORD000865,2025-05-14,Keyboard,Accessories,East,Website,10,65,0.1,585.0,452.24,132.76
+ORD000866,2025-05-15,Laptop,Computers,South,Website,3,850,0.0,2550.0,1743.11,806.89
+ORD000867,2025-05-16,Laptop,Computers,East,Website,4,850,0.15,2890.0,2091.47,798.53
+ORD000868,2025-05-17,Mouse,Accessories,West,Marketplace,5,35,0.1,157.5,115.72,41.78
+ORD000869,2025-05-18,Laptop,Computers,South,Website,4,850,0.1,3060.0,2172.82,887.18
+ORD000870,2025-05-19,Monitor,Computers,West,Mobile App,4,220,0.05,836.0,545.1,290.9
+ORD000871,2025-05-20,Keyboard,Accessories,West,Marketplace,6,65,0.05,370.5,227.67,142.83
+ORD000872,2025-05-21,Laptop,Computers,East,Website,8,850,0.0,6800.0,3820.61,2979.39
+ORD000873,2025-05-22,Laptop,Computers,East,Mobile App,6,850,0.0,5100.0,3536.91,1563.09
+ORD000874,2025-05-23,Office Chair,Furniture,East,Marketplace,5,180,0.05,855.0,491.9,363.1
+ORD000875,2025-05-24,Mouse,Accessories,West,Mobile App,8,35,0.1,252.0,160.0,92.0
+ORD000876,2025-05-25,Monitor,Computers,South,Website,4,220,0.05,836.0,630.85,205.15
+ORD000877,2025-05-26,Webcam,Accessories,West,Mobile App,8,75,0.15,510.0,386.55,123.45
+ORD000878,2025-05-27,Laptop,Computers,South,Marketplace,8,850,0.0,6800.0,5025.67,1774.33
+ORD000879,2025-05-28,Monitor,Computers,West,Website,9,220,0.0,1980.0,1176.99,803.01
+ORD000880,2025-05-29,Office Chair,Furniture,East,Website,9,180,0.0,1620.0,1241.82,378.18
+ORD000881,2025-05-30,SSD,Storage,North,Website,9,110,0.15,841.5,489.93,351.57
+ORD000882,2025-05-31,Headphones,Audio,East,Website,4,95,0.0,380.0,289.27,90.73
+ORD000883,2025-06-01,Laptop,Computers,South,Website,1,850,0.05,807.5,583.19,224.31
+ORD000884,2025-06-02,Keyboard,Accessories,West,Website,7,65,0.1,409.5,316.66,92.84
+ORD000885,2025-06-03,Laptop,Computers,East,Marketplace,7,850,0.0,5950.0,4619.35,1330.65
+ORD000886,2025-06-04,Monitor,Computers,West,Website,6,220,0.2,1056.0,708.33,347.67
+ORD000887,2025-06-05,Laptop,Computers,South,Website,9,850,0.2,6120.0,3805.42,2314.58
+ORD000888,2025-06-06,Laptop,Computers,North,Website,6,850,0.0,5100.0,3882.18,1217.82
+ORD000889,2025-06-07,Headphones,Audio,East,Website,7,95,0.0,665.0,413.7,251.3
+ORD000890,2025-06-08,Laptop,Computers,East,Website,2,850,0.1,1530.0,958.57,571.43
+ORD000891,2025-06-09,Laptop,Computers,East,Website,4,850,0.05,3230.0,2199.19,1030.81
+ORD000892,2025-06-10,Office Chair,Furniture,North,Marketplace,9,180,0.1,1458.0,849.44,608.56
+ORD000893,2025-06-11,Keyboard,Accessories,North,Website,7,65,0.1,409.5,268.18,141.32
+ORD000894,2025-06-12,Keyboard,Accessories,East,Mobile App,5,65,0.2,260.0,151.24,108.76
+ORD000895,2025-06-13,Laptop,Computers,South,Mobile App,2,850,0.1,1530.0,1000.94,529.06
+ORD000896,2025-06-14,SSD,Storage,West,Marketplace,4,110,0.05,418.0,317.13,100.87
+ORD000897,2025-06-15,Headphones,Audio,North,Website,2,95,0.1,171.0,130.24,40.76
+ORD000898,2025-06-16,Mouse,Accessories,East,Website,2,35,0.05,66.5,51.23,15.27
+ORD000899,2025-06-17,Headphones,Audio,North,Marketplace,6,95,0.2,456.0,326.85,129.15
+ORD000900,2025-06-18,Laptop,Computers,North,Mobile App,2,850,0.05,1615.0,1165.54,449.46
+ORD000901,2025-06-19,Monitor,Computers,East,Mobile App,8,220,0.0,1760.0,1140.9,619.1
+ORD000902,2025-06-20,Headphones,Audio,South,Marketplace,2,95,0.15,161.5,122.06,39.44
+ORD000903,2025-06-21,Office Chair,Furniture,South,Mobile App,5,180,0.0,900.0,522.76,377.24
+ORD000904,2025-06-22,SSD,Storage,North,Website,4,110,0.15,374.0,220.02,153.98
+ORD000905,2025-06-23,Headphones,Audio,North,Marketplace,6,95,0.1,513.0,296.1,216.9
+ORD000906,2025-06-24,Mouse,Accessories,East,Website,4,35,0.1,126.0,81.14,44.86
+ORD000907,2025-06-25,Laptop,Computers,South,Website,7,850,0.1,5355.0,3018.94,2336.06
+ORD000908,2025-06-26,SSD,Storage,East,Marketplace,4,110,0.15,374.0,266.24,107.76
+ORD000909,2025-06-27,Laptop,Computers,South,Marketplace,5,850,0.15,3612.5,2138.71,1473.79
+ORD000910,2025-06-28,Laptop,Computers,East,Mobile App,5,850,0.1,3825.0,2710.17,1114.83
+ORD000911,2025-06-29,Webcam,Accessories,South,Website,5,75,0.05,356.25,242.12,114.13
+ORD000912,2025-06-30,SSD,Storage,South,Website,6,110,0.05,627.0,444.61,182.39
+ORD000913,2025-07-01,Webcam,Accessories,South,Website,6,75,0.0,450.0,320.2,129.8
+ORD000914,2025-07-02,Mouse,Accessories,East,Website,4,35,0.05,133.0,97.2,35.8
+ORD000915,2025-07-03,Monitor,Computers,South,Website,3,220,0.05,627.0,413.91,213.09
+ORD000916,2025-07-04,Laptop,Computers,North,Website,6,850,0.05,4845.0,3300.51,1544.49
+ORD000917,2025-07-05,SSD,Storage,North,Mobile App,3,110,0.0,330.0,200.53,129.47
+ORD000918,2025-07-06,Office Chair,Furniture,West,Website,2,180,0.05,342.0,227.52,114.48
+ORD000919,2025-07-07,Monitor,Computers,South,Website,3,220,0.05,627.0,357.76,269.24
+ORD000920,2025-07-08,SSD,Storage,West,Website,3,110,0.0,330.0,253.95,76.05
+ORD000921,2025-07-09,Keyboard,Accessories,South,Website,3,65,0.1,175.5,134.03,41.47
+ORD000922,2025-07-10,Keyboard,Accessories,North,Website,3,65,0.0,195.0,110.55,84.45
+ORD000923,2025-07-11,Mouse,Accessories,West,Marketplace,5,35,0.0,175.0,96.69,78.31
+ORD000924,2025-07-12,Laptop,Computers,East,Website,7,850,0.0,5950.0,3813.13,2136.87
+ORD000925,2025-07-13,Mouse,Accessories,West,Website,3,35,0.1,94.5,63.42,31.08
+ORD000926,2025-07-14,Monitor,Computers,East,Marketplace,2,220,0.0,440.0,290.49,149.51
+ORD000927,2025-07-15,Webcam,Accessories,North,Website,6,75,0.0,450.0,282.43,167.57
+ORD000928,2025-07-16,Mouse,Accessories,North,Mobile App,1,35,0.15,29.75,20.62,9.13
+ORD000929,2025-07-17,SSD,Storage,South,Website,9,110,0.05,940.5,603.92,336.58
+ORD000930,2025-07-18,SSD,Storage,North,Website,6,110,0.15,561.0,360.93,200.07
+ORD000931,2025-07-19,Keyboard,Accessories,South,Mobile App,6,65,0.05,370.5,206.53,163.97
+ORD000932,2025-07-20,Keyboard,Accessories,North,Website,6,65,0.05,370.5,254.33,116.17
+ORD000933,2025-07-21,Office Chair,Furniture,East,Website,4,180,0.1,648.0,368.77,279.23
+ORD000934,2025-07-22,Mouse,Accessories,East,Website,7,35,0.0,245.0,183.11,61.89
+ORD000935,2025-07-23,Laptop,Computers,North,Marketplace,4,850,0.2,2720.0,1794.67,925.33
+ORD000936,2025-07-24,Laptop,Computers,North,Website,7,850,0.0,5950.0,3757.68,2192.32
+ORD000937,2025-07-25,Office Chair,Furniture,North,Website,7,180,0.15,1071.0,751.9,319.1
+ORD000938,2025-07-26,Headphones,Audio,South,Marketplace,10,95,0.1,855.0,644.37,210.63
+ORD000939,2025-07-27,Laptop,Computers,South,Marketplace,7,850,0.1,5355.0,3153.06,2201.94
+ORD000940,2025-07-28,Mouse,Accessories,West,Website,2,35,0.0,70.0,44.96,25.04
+ORD000941,2025-07-29,Mouse,Accessories,East,Marketplace,4,35,0.15,119.0,92.1,26.9
+ORD000942,2025-07-30,Mouse,Accessories,North,Mobile App,4,35,0.05,133.0,99.58,33.42
+ORD000943,2025-07-31,Office Chair,Furniture,South,Marketplace,4,180,0.05,684.0,437.72,246.28
+ORD000944,2025-08-01,Office Chair,Furniture,East,Website,7,180,0.0,1260.0,797.97,462.03
+ORD000945,2025-08-02,Laptop,Computers,West,Marketplace,6,850,0.0,5100.0,3762.07,1337.93
+ORD000946,2025-08-03,Laptop,Computers,South,Marketplace,1,850,0.15,722.5,411.37,311.13
+ORD000947,2025-08-04,Keyboard,Accessories,South,Website,6,65,0.2,312.0,180.12,131.88
+ORD000948,2025-08-05,SSD,Storage,South,Mobile App,5,110,0.05,522.5,356.0,166.5
+ORD000949,2025-08-06,Headphones,Audio,West,Website,3,95,0.1,256.5,174.6,81.9
+ORD000950,2025-08-07,Webcam,Accessories,South,Marketplace,5,75,0.1,337.5,229.82,107.68
+ORD000951,2025-08-08,Headphones,Audio,South,Website,3,95,0.05,270.75,196.56,74.19
+ORD000952,2025-08-09,Monitor,Computers,South,Marketplace,2,220,0.05,418.0,314.63,103.37
+ORD000953,2025-08-10,SSD,Storage,East,Marketplace,3,110,0.1,297.0,190.67,106.33
+ORD000954,2025-08-11,Laptop,Computers,West,Mobile App,4,850,0.05,3230.0,2018.57,1211.43
+ORD000955,2025-08-12,Webcam,Accessories,South,Website,2,75,0.1,135.0,100.63,34.37
+ORD000956,2025-08-13,Monitor,Computers,East,Website,4,220,0.05,836.0,506.87,329.13
+ORD000957,2025-08-14,Mouse,Accessories,South,Marketplace,7,35,0.05,232.75,174.86,57.89
+ORD000958,2025-08-15,Office Chair,Furniture,South,Mobile App,4,180,0.0,720.0,513.09,206.91
+ORD000959,2025-08-16,Mouse,Accessories,South,Marketplace,5,35,0.2,140.0,104.26,35.74
+ORD000960,2025-08-17,Laptop,Computers,North,Mobile App,4,850,0.0,3400.0,2368.23,1031.77
+ORD000961,2025-08-18,Mouse,Accessories,North,Marketplace,4,35,0.1,126.0,72.38,53.62
+ORD000962,2025-08-19,Headphones,Audio,East,Mobile App,4,95,0.1,342.0,244.32,97.68
+ORD000963,2025-08-20,Laptop,Computers,East,Website,2,850,0.05,1615.0,1072.56,542.44
+ORD000964,2025-08-21,Monitor,Computers,West,Mobile App,4,220,0.2,704.0,416.95,287.05
+ORD000965,2025-08-22,Laptop,Computers,South,Marketplace,9,850,0.0,7650.0,4387.13,3262.87
+ORD000966,2025-08-23,Mouse,Accessories,West,Mobile App,2,35,0.0,70.0,42.73,27.27
+ORD000967,2025-08-24,Keyboard,Accessories,South,Website,6,65,0.05,370.5,214.46,156.04
+ORD000968,2025-08-25,Mouse,Accessories,North,Marketplace,5,35,0.1,157.5,91.54,65.96
+ORD000969,2025-08-26,Keyboard,Accessories,West,Mobile App,5,65,0.1,292.5,217.62,74.88
+ORD000970,2025-08-27,Headphones,Audio,South,Marketplace,5,95,0.1,427.5,328.59,98.91
+ORD000971,2025-08-28,Monitor,Computers,West,Website,2,220,0.15,374.0,291.27,82.73
+ORD000972,2025-08-29,Office Chair,Furniture,South,Website,5,180,0.0,900.0,610.8,289.2
+ORD000973,2025-08-30,Office Chair,Furniture,West,Mobile App,4,180,0.1,648.0,440.76,207.24
+ORD000974,2025-08-31,Mouse,Accessories,South,Marketplace,3,35,0.05,99.75,56.23,43.52
+ORD000975,2025-09-01,Mouse,Accessories,East,Website,3,35,0.1,94.5,54.55,39.95
+ORD000976,2025-09-02,SSD,Storage,North,Website,6,110,0.05,627.0,455.95,171.05
+ORD000977,2025-09-03,Keyboard,Accessories,North,Marketplace,5,65,0.05,308.75,210.35,98.4
+ORD000978,2025-09-04,SSD,Storage,North,Website,4,110,0.0,440.0,299.35,140.65
+ORD000979,2025-09-05,Keyboard,Accessories,East,Website,1,65,0.05,61.75,44.66,17.09
+ORD000980,2025-09-06,Webcam,Accessories,East,Marketplace,1,75,0.05,71.25,52.51,18.74
+ORD000981,2025-09-07,Keyboard,Accessories,North,Website,5,65,0.05,308.75,220.25,88.5
+ORD000982,2025-09-08,Headphones,Audio,East,Website,5,95,0.05,451.25,249.31,201.94
+ORD000983,2025-09-09,Office Chair,Furniture,West,Mobile App,4,180,0.1,648.0,437.46,210.54
+ORD000984,2025-09-10,Laptop,Computers,East,Website,3,850,0.05,2422.5,1797.9,624.6
+ORD000985,2025-09-11,SSD,Storage,East,Website,5,110,0.15,467.5,345.25,122.25
+ORD000986,2025-09-12,Mouse,Accessories,East,Mobile App,5,35,0.05,166.25,127.72,38.53
+ORD000987,2025-09-13,Keyboard,Accessories,West,Marketplace,10,65,0.05,617.5,413.39,204.11
+ORD000988,2025-09-14,Keyboard,Accessories,East,Website,3,65,0.05,185.25,124.14,61.11
+ORD000989,2025-09-15,Laptop,Computers,East,Mobile App,5,850,0.15,3612.5,2007.41,1605.09
+ORD000990,2025-09-16,Monitor,Computers,North,Website,4,220,0.1,792.0,529.0,263.0
+ORD000991,2025-09-17,Headphones,Audio,South,Website,3,95,0.2,228.0,154.97,73.03
+ORD000992,2025-09-18,Laptop,Computers,North,Mobile App,4,850,0.0,3400.0,2587.82,812.18
+ORD000993,2025-09-19,Headphones,Audio,South,Marketplace,4,95,0.2,304.0,229.07,74.93
+ORD000994,2025-09-20,Office Chair,Furniture,South,Website,4,180,0.0,720.0,406.34,313.66
+ORD000995,2025-09-21,Office Chair,Furniture,West,Marketplace,3,180,0.15,459.0,267.43,191.57
+ORD000996,2025-09-22,SSD,Storage,South,Website,4,110,0.0,440.0,280.7,159.3
+ORD000997,2025-09-23,SSD,Storage,South,Website,5,110,0.15,467.5,340.99,126.51
+ORD000998,2025-09-24,Monitor,Computers,South,Marketplace,5,220,0.1,990.0,582.35,407.65
+ORD000999,2025-09-25,Office Chair,Furniture,North,Mobile App,4,180,0.1,648.0,471.76,176.24
+ORD001000,2025-09-26,Monitor,Computers,South,Website,4,220,0.05,836.0,573.79,262.21
+ORD001001,2025-09-27,SSD,Storage,West,Website,7,110,0.05,731.5,549.96,181.54
+ORD001002,2025-09-28,SSD,Storage,South,Website,3,110,0.0,330.0,207.49,122.51
+ORD001003,2025-09-29,Headphones,Audio,North,Website,4,95,0.0,380.0,244.17,135.83
+ORD001004,2025-09-30,Mouse,Accessories,North,Marketplace,7,35,0.1,220.5,124.33,96.17
+ORD001005,2025-10-01,Monitor,Computers,West,Marketplace,3,220,0.05,627.0,419.56,207.44
+ORD001006,2025-10-02,Mouse,Accessories,West,Marketplace,3,35,0.0,105.0,76.46,28.54
+ORD001007,2025-10-03,Keyboard,Accessories,South,Mobile App,3,65,0.0,195.0,130.27,64.73
+ORD001008,2025-10-04,Laptop,Computers,West,Marketplace,2,850,0.0,1700.0,1138.89,561.11
+ORD001009,2025-10-05,Laptop,Computers,South,Marketplace,3,850,0.0,2550.0,1939.31,610.69
+ORD001010,2025-10-06,SSD,Storage,East,Marketplace,3,110,0.05,313.5,227.71,85.79
+ORD001011,2025-10-07,Office Chair,Furniture,West,Marketplace,3,180,0.15,459.0,285.63,173.37
+ORD001012,2025-10-08,Laptop,Computers,South,Marketplace,3,850,0.1,2295.0,1760.94,534.06
+ORD001013,2025-10-09,Laptop,Computers,West,Mobile App,3,850,0.1,2295.0,1644.84,650.16
+ORD001014,2025-10-10,Monitor,Computers,South,Website,3,220,0.0,660.0,408.7,251.3
+ORD001015,2025-10-11,Laptop,Computers,North,Marketplace,3,850,0.1,2295.0,1373.81,921.19
+ORD001016,2025-10-12,Monitor,Computers,West,Website,9,220,0.15,1683.0,1187.19,495.81
+ORD001017,2025-10-13,Headphones,Audio,North,Website,5,95,0.2,380.0,253.31,126.69
+ORD001018,2025-10-14,Mouse,Accessories,East,Mobile App,2,35,0.1,63.0,43.33,19.67
+ORD001019,2025-10-15,Mouse,Accessories,East,Website,4,35,0.1,126.0,73.05,52.95
+ORD001020,2025-10-16,Monitor,Computers,East,Marketplace,3,220,0.2,528.0,383.39,144.61
+ORD001021,2025-10-17,Headphones,Audio,East,Website,3,95,0.0,285.0,213.19,71.81
+ORD001022,2025-10-18,Keyboard,Accessories,East,Marketplace,2,65,0.1,117.0,75.65,41.35
+ORD001023,2025-10-19,Keyboard,Accessories,East,Website,3,65,0.1,175.5,108.82,66.68
+ORD001024,2025-10-20,Mouse,Accessories,West,Marketplace,6,35,0.1,189.0,146.33,42.67
+ORD001025,2025-10-21,Office Chair,Furniture,West,Mobile App,3,180,0.05,513.0,397.18,115.82
+ORD001026,2025-10-22,Monitor,Computers,East,Marketplace,1,220,0.0,220.0,127.31,92.69
+ORD001027,2025-10-23,Webcam,Accessories,North,Marketplace,5,75,0.0,375.0,252.88,122.12
+ORD001028,2025-10-24,Keyboard,Accessories,North,Marketplace,3,65,0.1,175.5,114.16,61.34
+ORD001029,2025-10-25,SSD,Storage,West,Website,1,110,0.05,104.5,64.21,40.29
+ORD001030,2025-10-26,Keyboard,Accessories,East,Marketplace,3,65,0.15,165.75,110.95,54.8
+ORD001031,2025-10-27,Mouse,Accessories,West,Website,7,35,0.0,245.0,172.4,72.6
+ORD001032,2025-10-28,SSD,Storage,West,Website,2,110,0.15,187.0,118.62,68.38
+ORD001033,2025-10-29,Headphones,Audio,West,Marketplace,4,95,0.05,361.0,224.08,136.92
+ORD001034,2025-10-30,Laptop,Computers,North,Mobile App,5,850,0.0,4250.0,3181.41,1068.59
+ORD001035,2025-10-31,Laptop,Computers,South,Marketplace,2,850,0.0,1700.0,1192.23,507.77
+ORD001036,2025-11-01,Office Chair,Furniture,North,Marketplace,7,180,0.05,1197.0,742.43,454.57
+ORD001037,2025-11-02,Laptop,Computers,South,Website,2,850,0.05,1615.0,946.26,668.74
+ORD001038,2025-11-03,Keyboard,Accessories,North,Mobile App,2,65,0.0,130.0,83.0,47.0
+ORD001039,2025-11-04,Office Chair,Furniture,West,Website,4,180,0.0,720.0,551.52,168.48
+ORD001040,2025-11-05,Laptop,Computers,North,Marketplace,5,850,0.2,3400.0,2519.58,880.42
+ORD001041,2025-11-06,Monitor,Computers,North,Marketplace,2,220,0.05,418.0,250.09,167.91
+ORD001042,2025-11-07,Monitor,Computers,North,Marketplace,5,220,0.1,990.0,682.5,307.5
+ORD001043,2025-11-08,Laptop,Computers,North,Website,1,850,0.1,765.0,421.67,343.33
+ORD001044,2025-11-09,Mouse,Accessories,West,Website,2,35,0.05,66.5,50.45,16.05
+ORD001045,2025-11-10,Headphones,Audio,South,Website,6,95,0.15,484.5,371.46,113.04
+ORD001046,2025-11-11,Keyboard,Accessories,East,Website,9,65,0.0,585.0,350.88,234.12
+ORD001047,2025-11-12,Laptop,Computers,West,Marketplace,7,850,0.0,5950.0,3741.37,2208.63
+ORD001048,2025-11-13,SSD,Storage,East,Website,2,110,0.0,220.0,136.24,83.76
+ORD001049,2025-11-14,SSD,Storage,South,Website,8,110,0.0,880.0,521.66,358.34
+ORD001050,2025-11-15,Mouse,Accessories,East,Marketplace,5,35,0.0,175.0,123.76,51.24
+ORD001051,2025-11-16,Laptop,Computers,East,Website,3,850,0.1,2295.0,1461.15,833.85
+ORD001052,2025-11-17,Mouse,Accessories,South,Marketplace,6,35,0.1,189.0,104.17,84.83
+ORD001053,2025-11-18,Headphones,Audio,East,Website,8,95,0.0,760.0,456.39,303.61
+ORD001054,2025-11-19,Mouse,Accessories,West,Website,4,35,0.15,119.0,83.54,35.46
+ORD001055,2025-11-20,SSD,Storage,West,Marketplace,8,110,0.1,792.0,563.42,228.58
+ORD001056,2025-11-21,Keyboard,Accessories,North,Mobile App,5,65,0.1,292.5,161.99,130.51
+ORD001057,2025-11-22,Mouse,Accessories,East,Website,5,35,0.15,148.75,100.63,48.12
+ORD001058,2025-11-23,Laptop,Computers,South,Website,4,850,0.05,3230.0,2251.02,978.98
+ORD001059,2025-11-24,Mouse,Accessories,East,Website,5,35,0.0,175.0,121.89,53.11
+ORD001060,2025-11-25,Webcam,Accessories,South,Marketplace,8,75,0.1,540.0,377.91,162.09
+ORD001061,2025-11-26,Webcam,Accessories,North,Mobile App,4,75,0.2,240.0,175.07,64.93
+ORD001062,2025-11-27,Monitor,Computers,East,Website,4,220,0.0,880.0,551.85,328.15
+ORD001063,2025-11-28,Office Chair,Furniture,West,Website,14,180,0.05,2394.0,1785.27,608.73
+ORD001064,2025-11-29,Webcam,Accessories,West,Website,5,75,0.0,375.0,244.34,130.66
+ORD001065,2025-11-30,Mouse,Accessories,North,Website,6,35,0.15,178.5,100.66,77.84
+ORD001066,2025-12-01,Keyboard,Accessories,East,Marketplace,12,65,0.0,780.0,545.86,234.14
+ORD001067,2025-12-02,Webcam,Accessories,North,Marketplace,9,75,0.15,573.75,360.78,212.97
+ORD001068,2025-12-03,Monitor,Computers,East,Marketplace,1,220,0.0,220.0,153.14,66.86
+ORD001069,2025-12-04,Headphones,Audio,North,Website,3,95,0.1,256.5,163.09,93.41
+ORD001070,2025-12-05,Webcam,Accessories,South,Website,5,75,0.1,337.5,224.27,113.23
+ORD001071,2025-12-06,Mouse,Accessories,East,Mobile App,8,35,0.1,252.0,170.79,81.21
+ORD001072,2025-12-07,SSD,Storage,East,Website,4,110,0.0,440.0,313.66,126.34
+ORD001073,2025-12-08,Mouse,Accessories,West,Website,5,35,0.05,166.25,102.77,63.48
+ORD001074,2025-12-09,Mouse,Accessories,West,Website,9,35,0.0,315.0,221.78,93.22
+ORD001075,2025-12-10,Keyboard,Accessories,North,Mobile App,4,65,0.0,260.0,156.93,103.07
+ORD001076,2025-12-11,Office Chair,Furniture,South,Marketplace,3,180,0.0,540.0,395.25,144.75
+ORD001077,2025-12-12,Keyboard,Accessories,West,Marketplace,4,65,0.0,260.0,156.83,103.17
+ORD001078,2025-12-13,Webcam,Accessories,West,Marketplace,5,75,0.15,318.75,180.58,138.17
+ORD001079,2025-12-14,Keyboard,Accessories,East,Mobile App,5,65,0.1,292.5,163.46,129.04
+ORD001080,2025-12-15,Office Chair,Furniture,East,Marketplace,5,180,0.0,900.0,618.91,281.09
+ORD001081,2025-12-16,Office Chair,Furniture,East,Website,3,180,0.05,513.0,320.27,192.73
+ORD001082,2025-12-17,Laptop,Computers,East,Website,3,850,0.0,2550.0,1739.48,810.52
+ORD001083,2025-12-18,Office Chair,Furniture,West,Website,7,180,0.0,1260.0,783.05,476.95
+ORD001084,2025-12-19,Headphones,Audio,East,Website,5,95,0.1,427.5,278.34,149.16
+ORD001085,2025-12-20,Laptop,Computers,South,Mobile App,5,850,0.1,3825.0,2869.28,955.72
+ORD001086,2025-12-21,Mouse,Accessories,North,Marketplace,4,35,0.1,126.0,96.06,29.94
+ORD001087,2025-12-22,Laptop,Computers,West,Website,10,850,0.2,6800.0,3807.41,2992.59
+ORD001088,2025-12-23,Mouse,Accessories,North,Marketplace,3,35,0.2,84.0,64.52,19.48
+ORD001089,2025-12-24,Monitor,Computers,North,Website,6,220,0.15,1122.0,747.38,374.62
+ORD001090,2025-12-25,Keyboard,Accessories,North,Marketplace,7,65,0.05,432.25,311.27,120.98
+ORD001091,2025-12-26,Keyboard,Accessories,South,Mobile App,3,65,0.1,175.5,134.05,41.45
+ORD001092,2025-12-27,Headphones,Audio,East,Website,4,95,0.0,380.0,225.46,154.54
+ORD001093,2025-12-28,SSD,Storage,South,Marketplace,1,110,0.15,93.5,59.64,33.86
+ORD001094,2025-12-29,Office Chair,Furniture,East,Marketplace,6,180,0.0,1080.0,814.37,265.63
+ORD001095,2025-12-30,Keyboard,Accessories,North,Mobile App,4,65,0.2,208.0,139.25,68.75
+ORD001096,2025-12-31,Mouse,Accessories,East,Website,6,35,0.0,210.0,158.85,51.15

@@ -1,0 +1,7 @@
+month,forecast_revenue,forecast_method,validation_mape_pct
+2026-01-01,27837.75,Seasonal Naive,23.72
+2026-02-01,29465.75,Seasonal Naive,23.72
+2026-03-01,32981.25,Seasonal Naive,23.72
+2026-04-01,31217.75,Seasonal Naive,23.72
+2026-05-01,44777.5,Seasonal Naive,23.72
+2026-06-01,49236.25,Seasonal Naive,23.72

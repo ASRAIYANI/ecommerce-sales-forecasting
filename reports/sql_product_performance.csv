@@ -1,0 +1,9 @@
+product,category,orders,units_sold,revenue,profit,profit_margin_pct
+Laptop,Computers,180,792,625982.5,210940.9,33.7
+Monitor,Computers,136,598,123585.0,40255.24,32.57
+Office Chair,Furniture,105,496,83493.0,27302.87,32.7
+Headphones,Audio,131,592,51946.0,17293.75,33.29
+SSD,Storage,122,508,51892.5,17244.74,33.23
+Keyboard,Accessories,151,686,40989.0,13643.8,33.29
+Webcam,Accessories,105,484,33885.0,10920.93,32.23
+Mouse,Accessories,166,744,24116.75,8250.35,34.21

@@ -1,0 +1,4 @@
+sales_channel,orders,units_sold,revenue,profit,profit_margin_pct
+Website,494,2178,455196.0,154110.37,33.86
+Marketplace,374,1719,334704.75,111080.77,33.19
+Mobile App,228,1003,245989.0,80661.44,32.79
