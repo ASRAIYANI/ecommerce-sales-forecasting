@@ -2,6 +2,12 @@
 
 An end-to-end data analytics and forecasting portfolio project that analyzes e-commerce sales performance using **Python, SQL, SQLite, Pandas, Plotly, Streamlit, and time-series forecasting**.
 
+## Live Dashboard
+
+**Streamlit App:** https://asraiyani-ecommerce-sales-forecasting.streamlit.app/
+
+**GitHub Repository:** https://github.com/ASRAIYANI/ecommerce-sales-forecasting
+
 The project transforms transactional sales data into business KPIs, SQL-based analytical reports, interactive visualizations, and a six-month revenue forecast.
 
 > **Note:** The dataset used in this project is synthetic and intended for educational and portfolio purposes. The findings should not be interpreted as evidence about a real business.
